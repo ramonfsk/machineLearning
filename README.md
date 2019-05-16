@@ -1,2 +1,2 @@
 # Estudo sobre Machine Learning
-A ideia é que um sistema de auxilio a desições seja fieto, junto a um chatbot.
+A ideia é desenvolver um sistema de auxílio a toamda de desições, assim com o TRANSLTR de Trevor Strathmore...ambicioso não acha?
