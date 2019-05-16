@@ -20,7 +20,7 @@ misterioso3 = [0, 0, 1]
 
 teste = [misterioso1, misterioso2, misterioso3]
 
-marcacoes_teste = [-1, 1, 1]
+marcacoes_teste = [-1, 1, -1]
 
 resultado = modelo.predict(teste)
 
