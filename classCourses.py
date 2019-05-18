@@ -10,12 +10,6 @@ Ydummies_df = Y_df
 
 X = Xdummies_df.values
 Y = Ydummies_df.values
-#a eficiencia do algoritmo que chuta tudo 0 ou 1
-hitBase = max(Counter(Y).values())
-#oneHit = list(Y).count('sim')
-#zeroHit = list(Y).count('nao')
-baseTaxHit = 100.0 * hitBase / len(Y)
-print("Taxa de acerto base : %f" % baseTaxHit)
 
 trainingPercent = 0.9
 trainingSize = int(trainingPercent * len(Y))
@@ -40,3 +34,10 @@ taxHit = 100.0 * totalHits / totalElements
 
 print("Taxa de acerto do algoritmo: %f" % taxHit)
 print(totalElements)
+
+#a eficiencia do algoritmo que chuta tudo em um unico valor
+hitBase = max(Counter(testMarkings).values())
+#oneHit = list(Y).count('sim')
+#zeroHit = list(Y).count('nao')
+baseTaxHit = 100.0 * hitBase / len(testMarkings)
+print("Taxa de acerto base : %f" % baseTaxHit)
