@@ -1,0 +1,1807 @@
+data,detalhes,tipo,5_dia_util,transacoes_negocio
+2015-01-01,Congelamento do ambiente; Feriado; Ano Novo; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Feriado,,407.793
+2015-01-02,Congelamento do ambiente; 1º dia útil; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,3.709.156
+2015-01-03,Congelamento do ambiente; Utilização de Caixa Eletrônico; ,Congelamento,,876.498
+2015-01-04,Congelamento do ambiente; Utilização de Caixa Eletrônico; ,Congelamento,,520.752
+2015-01-05,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,5.757.740
+2015-01-06,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,4.567.595
+2015-01-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.844.305
+2015-01-08,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,1,4.414.432
+2015-01-09,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,4.411.565
+2015-01-10,Utilização de Caixa Eletrônico;,Normal,,972.885
+2015-01-11,Utilização de Caixa Eletrônico;,Normal,,470.270
+2015-01-12,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,,5.350.129
+2015-01-13,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,4.194.303
+2015-01-14,,Normal,,3.973.826
+2015-01-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,4.390.918
+2015-01-16,Movimento Batch – Empréstimo 0001;,Normal,,3.929.841
+2015-01-17,Utilização de Caixa Eletrônico;,Normal,,855.455
+2015-01-18,Utilização de Caixa Eletrônico;,Normal,,412.171
+2015-01-19,Movimento Segunda-Feira; Arrecadação do Convênio IPVA;,Alto Risco,,4.708.053
+2015-01-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Arrecadação do Convênio IPVA; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,4.544.363
+2015-01-21,Arrecadação do Convênio IPVA;,Normal,,3.931.821
+2015-01-22,Dia Produção Sisbr; Arrecadação do Convênio IPVA;,Normal,,3.628.417
+2015-01-23,Arrecadação do Convênio IPVA;,Normal,,3.708.935
+2015-01-24,Utilização de Caixa Eletrônico;,Normal,,830.241
+2015-01-25,Utilização de Caixa Eletrônico;,Normal,,427.702
+2015-01-26,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Alto Risco,,4.525.117
+2015-01-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Atenção,,3.719.814
+2015-01-28,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Normal,,3.572.476
+2015-01-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA; ,Atenção,,3.551.085
+2015-01-30,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Arrecadação do Convênio IPVA;,Atenção,,4.264.809
+2015-01-31,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,843.460
+2015-02-01,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,518.184
+2015-02-02,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,5.049.252
+2015-02-03,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,4.234.247
+2015-02-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,3.967.776
+2015-02-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.313.088
+2015-02-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,5.004.366
+2015-02-07,Utilização de Caixa Eletrônico;,Normal,,1.063.799
+2015-02-08,Utilização de Caixa Eletrônico;,Normal,,512.738
+2015-02-09,Movimento Segunda-Feira; Arrecadação de Convênios;,Alto Risco,,5.388.339
+2015-02-10,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS;,Atenção,,5.108.412
+2015-02-11,,Normal,,4.279.712
+2015-02-12,Dia Produção Sisbr;,Normal,,4.103.580
+2015-02-13,Congelamento do ambiente; Aumento de transações CDO e ATM; Dia de grande movimento; Antecede feriado prolongado;,Congelamento,,4.420.792
+2015-02-14,Congelamento do ambiente; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,813.014
+2015-02-15,Congelamento do ambiente; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,327.496
+2015-02-16,Congelamento do ambiente; Aumento de transações CDO e ATM; ,Congelamento,,902.704
+2015-02-17,Congelamento do ambiente; Feriado; Carnaval; Aumento de transações CDO e ATM;,Feriado,,547.829
+2015-02-18,Movimento Batch – Empréstimo 0001;,Normal,,4.922.017
+2015-02-19,Dia Produção Sisbr;,Normal,,4.401.825
+2015-02-20,Congelamento do ambiente; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Congelamento,,5.059.143
+2015-02-21,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,969.454
+2015-02-22,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,462.410
+2015-02-23,Congelamento do ambiente; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;,Congelamento,,4.842.138
+2015-02-24,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;,Congelamento,,3.950.920
+2015-02-25,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Congelamento,,4.073.513
+2015-02-26,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Congelamento,,3.814.511
+2015-02-27,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Arrecadação do Convênio IPVA;,Congelamento,,4.448.983
+2015-02-28,Congelamento do ambiente; Utilização de Caixa Eletrônico; Processo de Migração/Incorporação; ,Congelamento,,988.523
+2015-03-01,Congelamento do ambiente; Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Congelamento,,549.890
+2015-03-02,Congelamento do ambiente; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,5.665.533
+2015-03-03,Congelamento do ambiente; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Congelamento,,4.566.868
+2015-03-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.263.849
+2015-03-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.625.560
+2015-03-06,Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,1,5.379.256
+2015-03-07,Utilização de Caixa Eletrônico; ,Normal,,1.151.625
+2015-03-08,Utilização de Caixa Eletrônico; ,Normal,,548.712
+2015-03-09,Movimento Segunda-Feira; Arrecadação de Convênios;,Alto Risco,,5.436.133
+2015-03-10,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS;,Atenção,,5.308.370
+2015-03-11,,Normal,,4.364.952
+2015-03-12,Dia Produção Sisbr;,Normal,,4.081.674
+2015-03-13,,Normal,,4.224.893
+2015-03-14,Utilização de Caixa Eletrônico;,Normal,,953.503
+2015-03-15,Utilização de Caixa Eletrônico;,Normal,,457.820
+2015-03-16,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,5.218.520
+2015-03-17,Dia Produção Sisbr;,Normal,,3.990.785
+2015-03-18,,Normal,,3.860.713
+2015-03-19,Dia Produção Sisbr;,Normal,,3.748.800
+2015-03-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,4.785.005
+2015-03-21,Utilização de Caixa Eletrônico;,Normal,,955.833
+2015-03-22,Utilização de Caixa Eletrônico;,Normal,,406.606
+2015-03-23,Movimento Segunda-Feira; Arrecadação do Convênio IPVA;,Alto Risco,,4.611.955
+2015-03-24,Dia Produção Sisbr; Arrecadação do Convênio IPVA;,Normal,,3.895.971
+2015-03-25,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Normal,,4.019.715
+2015-03-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Atenção,,3.718.620
+2015-03-27,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA;,Normal,,3.723.154
+2015-03-28,Utilização de Caixa Eletrônico;,Normal,,918.612
+2015-03-29,Utilização de Caixa Eletrônico;,Normal,,471.803
+2015-03-30,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,4.527.276
+2015-03-31,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,4.443.621
+2015-04-01,Processo de Migração/Incorporação; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,4.728.991
+2015-04-02,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios ,Congelamento,,4.346.742
+2015-04-03,Congelamento do ambiente;Aumento de transações CDO e ATM,Congelamento,,628.903
+2015-04-04,Congelamento do ambiente;Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM,Congelamento,,858.495
+2015-04-05,Congelamento do ambiente;Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM,Congelamento,,493.796
+2015-04-06,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de recorde movimento compesação (TTN + TTS),Congelamento,,6.202.264
+2015-04-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios ;,Atenção,1,5.400.221
+2015-04-08,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.863.470
+2015-04-09,Dia Produção Sisbr; Arrecadação de Convênios;,Normal,,4.495.974
+2015-04-10,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,5.249.555
+2015-04-11,Utilização de Caixa Eletrônico ,Normal,,1.033.606
+2015-04-12,Utilização de Caixa Eletrônico ,Normal,,520.113
+2015-04-13,Movimento Segunda-Feira ,Alto Risco,,5.285.421
+2015-04-14,Dia Produção Sisbr; Movimento Batch – Compe Inferior ,Atenção,,4.461.626
+2015-04-15,Movimento Batch – Empréstimo 0001,Normal,,4.785.726
+2015-04-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001,Normal,,4.075.019
+2015-04-17,,Normal,,4.367.784
+2015-04-18,Utilização de Caixa Eletrônico ,Normal,,971.936
+2015-04-19,Utilização de Caixa Eletrônico ,Normal,,452.191
+2015-04-20,Movimento Segunda-Feira; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial,Alto Risco,,5.148.204
+2015-04-21,Congelamento do ambiente; Feriado; Tiradentes; Aumento de transações CDO e ATM,Congelamento,,841.663
+2015-04-22,,Normal,,4.711.199
+2015-04-23,Dia Produção Sisbr,Normal,,4.130.519
+2015-04-24,Pagamento de benefícios INSS,Normal,,4.258.006
+2015-04-25,Utilização de Caixa Eletrônico ,Normal,,1.002.067
+2015-04-26,Utilização de Caixa Eletrônico ,Normal,,509.464
+2015-04-27,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,5.041.583
+2015-04-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Atenção,,4.173.024
+2015-04-29,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,4.189.517
+2015-04-30,Dia Produção Sisbr; Processo de Migração/Incorporação; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch ,Alto Risco,,5.288.292
+2015-05-01,Congelamento do ambiente; Feriado; Dia do Trabalho; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Feriado,,839.884
+2015-05-02,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,947.488
+2015-05-03,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,553.613
+2015-05-04,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,6.343.559
+2015-05-05,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.539.215
+2015-05-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.040.455
+2015-05-07,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.454.108
+2015-05-08,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação de GPS;,Normal,1,5.359.827
+2015-05-09,Congelamento do ambiente; Data comemorativa; Dia das Mães; Aumento de transações CDO e ATM;,Congelamento,,1.194.519
+2015-05-10,Congelamento do ambiente; Data comemorativa; Dia das Mães; Aumento de transações CDO e ATM;,Congelamento,,557.892
+2015-05-11,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento no SISBR2.0;,Alto Risco,,6.612.066
+2015-05-12,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,4.949.627
+2015-05-13,,Normal,,4.391.604
+2015-05-14,Dia Produção Sisbr;,Normal,,4.261.943
+2015-05-15,Movimento Batch – Empréstimo 0001;,Normal,,5.017.979
+2015-05-16,Utilização de Caixa Eletrônico,Normal,,1.010.094
+2015-05-17,Utilização de Caixa Eletrônico,Normal,,511.972
+2015-05-18,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,5.252.953
+2015-05-19,Dia Produção Sisbr;,Normal,,4.477.122
+2015-05-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,5.206.286
+2015-05-21,Dia Produção Sisbr;,Normal,,4.171.908
+2015-05-22,,Normal,,4.192.339
+2015-05-23,Utilização de Caixa Eletrônico;,Normal,,956.961
+2015-05-24,Utilização de Caixa Eletrônico;,Normal,,499.130
+2015-05-25,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,5.050.396
+2015-05-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.210.245
+2015-05-27,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.109.067
+2015-05-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,4.084.401
+2015-05-29,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;,Alto Risco,,4.677.236
+2015-05-30,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Normal,,1.068.680
+2015-05-31,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Normal,,559.850
+2015-06-01,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Alto Risco,,5.779.492
+2015-06-02,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,4.901.571
+2015-06-03,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.990.008
+2015-06-04,Congelamento do ambiente; Feriado; Corpus Christi; Aumento de transações CDO e ATM; ,Feriado,,887.810
+2015-06-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,5.400.742
+2015-06-06,Utilização de Caixa Eletrônico;,Normal,,1.167.529
+2015-06-07,Utilização de Caixa Eletrônico;,Normal,,615.710
+2015-06-08,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.463.878
+2015-06-09,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios;,Normal,,5.176.643
+2015-06-10,Arrecadação de Convênios; Arrecadação de GPS; ,Normal,,5.588.680
+2015-06-11,Dia Produção Sisbr;,Normal,,4.719.667
+2015-06-12,,Normal,,4.451.319
+2015-06-13,Utilização de Caixa Eletrônico ,Normal,,1.040.410
+2015-06-14,Utilização de Caixa Eletrônico ,Normal,,547.630
+2015-06-15,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,5.658.081
+2015-06-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,4.560.092
+2015-06-17,,Normal,,4.360.403
+2015-06-18,Dia Produção Sisbr;,Normal,,4.095.289
+2015-06-19,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; ,Atenção,,4.739.880
+2015-06-20,Utilização de Caixa Eletrônico;,Normal,,1.058.659
+2015-06-21,Utilização de Caixa Eletrônico;,Normal,,521.745
+2015-06-22,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,5.720.165
+2015-06-23,Dia Produção Sisbr;,Normal,,4.379.552
+2015-06-24,Pagamento de benefícios INSS;,Normal,,3.888.952
+2015-06-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.390.011
+2015-06-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.357.348
+2015-06-27,Utilização de Caixa Eletrônico;,Normal,,998.955
+2015-06-28,Utilização de Caixa Eletrônico;,Normal,,514.143
+2015-06-29,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,5.144.238
+2015-06-30,Congelamento do ambiente; ; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Congelamento,,5.267.097
+2015-07-01,Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,5.327.533
+2015-07-02,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.790.994
+2015-07-03,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.109.405
+2015-07-04,Utilização de Caixa Eletrônico;,Normal,,1.240.464
+2015-07-05,Utilização de Caixa Eletrônico;,Normal,,611.635
+2015-07-06,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.624.241
+2015-07-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,1,5.790.406
+2015-07-08,Arrecadação de Convênios;,Normal,,5.044.114
+2015-07-09,Dia Produção Sisbr; Arrecadação de Convênios;,Normal,,4.302.519
+2015-07-10,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,5.652.744
+2015-07-11,Utilização de Caixa Eletrônico;,Normal,,1.160.405
+2015-07-12,Utilização de Caixa Eletrônico;,Normal,,592.973
+2015-07-13,Movimento Segunda-Feira;,Alto Risco,,5.947.884
+2015-07-14,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,4.859.716
+2015-07-15,Movimento Batch – Empréstimo 0001;,Normal,,5.321.135
+2015-07-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,4.491.490
+2015-07-17,,Normal,,4.538.390
+2015-07-18,Utilização de Caixa Eletrônico;,Normal,,1.075.829
+2015-07-19,Utilização de Caixa Eletrônico;,Normal,,561.928
+2015-07-20,Movimento Segunda-Feira; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,6.473.913
+2015-07-21,Dia Produção Sisbr;,Normal,,4.757.160
+2015-07-22,,Normal,,4.442.087
+2015-07-23,Dia Produção Sisbr;,Normal,,4.206.936
+2015-07-24,,Normal,,4.566.787
+2015-07-25,Utilização de Caixa Eletrônico;,Normal,,1.008.077
+2015-07-26,Utilização de Caixa Eletrônico;,Normal,,516.085
+2015-07-27,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,5.703.318
+2015-07-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.306.874
+2015-07-29,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,3.003.731
+2015-07-30,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.565.084
+2015-07-31,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,4.780.782
+2015-08-01,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,1.262.876
+2015-08-02,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,642.226
+2015-08-03,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.486.009
+2015-08-04,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.472.025
+2015-08-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.607.192
+2015-08-06,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.555.187
+2015-08-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,6.145.213
+2015-08-08,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,1.313.189
+2015-08-09,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,636.528
+2015-08-10,Movimento Segunda-Feira; Arrecadação de Convênios; Arrecadação de GPS;,Alto Risco,,7.482.176
+2015-08-11,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,5.592.832
+2015-08-12,,Normal,,4.962.924
+2015-08-13,Dia Produção Sisbr;,Normal,,4.396.495
+2015-08-14,,Normal,,4.907.859
+2015-08-15,Utilização de Caixa Eletrônico; ,Normal,,1.110.108
+2015-08-16,Utilização de Caixa Eletrônico; ,Normal,,552.882
+2015-08-17,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,6.304.496
+2015-08-18,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,4.973.519
+2015-08-19,,Normal,,4.780.375
+2015-08-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,5.645.544
+2015-08-21,,Normal,,4.857.161
+2015-08-22,Utilização de Caixa Eletrônico; ,Normal,,1.095.610
+2015-08-23,Utilização de Caixa Eletrônico; ,Normal,,566.334
+2015-08-24,Movimento Segunda-Feira; ,Alto Risco,,5.553.125
+2015-08-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.986.942
+2015-08-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.588.141
+2015-08-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.467.927
+2015-08-28,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.719.349
+2015-08-29,Utilização de Caixa Eletrônico; ,Normal,,1.122.952
+2015-08-30,Utilização de Caixa Eletrônico; ,Normal,,613.561
+2015-08-31,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,6.138.385
+2015-09-01,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,5.929.338
+2015-09-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.323.971
+2015-09-03,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.286.018
+2015-09-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.260.852
+2015-09-05,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Previsão de grande movimento; Antecede feriado;,Congelamento,,1.328.396
+2015-09-06,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Previsão de grande movimento; Antecede feriado;,Congelamento,,502.880
+2015-09-07,Congelamento do ambiente; Feriado; Independência do Brasil; Aumento de transações CDO e ATM;,Feriado,,860.487
+2015-09-08,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de grande movimento; Pós feriado;,Alto Risco,1,7.260.814
+2015-09-09,Arrecadação de Convênios;,Normal,,5.790.810
+2015-09-10,Dia Produção Sisbr; Arrecadação de Convênios; Arrecadação de GPS;,Normal,,6.282.934
+2015-09-11,,Normal,,5.473.789
+2015-09-12,Utilização de Caixa Eletrônico;,Normal,,1.207.329
+2015-09-13,Utilização de Caixa Eletrônico;,Normal,,596.588
+2015-09-14,Movimento Segunda-Feira;,Alto Risco,,6.029.332
+2015-09-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,5.802.678
+2015-09-16,Movimento Batch – Empréstimo 0001;,Normal,,4.941.985
+2015-09-17,Dia Produção Sisbr,Normal,,4.744.704
+2015-09-18,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; ,Atenção,,5.472.008
+2015-09-19,Utilização de Caixa Eletrônico;,Normal,,1.148.539
+2015-09-20,Utilização de Caixa Eletrônico;,Normal,,603.135
+2015-09-21,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,6.363.393
+2015-09-22,Dia Produção Sisbr;,Normal,,4.933.051
+2015-09-23,,Normal,,4.572.885
+2015-09-24,Dia Produção Sisbr; Pagamento de benefícios INSS;,Normal,,4.350.138
+2015-09-25,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,292.486
+2015-09-26,Utilização de Caixa Eletrônico;,Normal,,1.621.685
+2015-09-27,Utilização de Caixa Eletrônico;,Normal,,649.336
+2015-09-28,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.951.547
+2015-09-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.032.164
+2015-09-30,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,5.778.401
+2015-10-01,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,5.760.318
+2015-10-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.611.952
+2015-10-03,Utilização de Caixa Eletrônico;,Normal,,1.337.868
+2015-10-04,Utilização de Caixa Eletrônico;,Normal,,693.077
+2015-10-05,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.017.902
+2015-10-06,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,6.435.584
+2015-10-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,6.308.829
+2015-10-08,Dia Produção Sisbr; Arrecadação de Convênios;,Normal,,5.467.600
+2015-10-09,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,5.627.140
+2015-10-10,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Previsão de grande movimento; ,Congelamento,,1.269.090
+2015-10-11,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Previsão de grande movimento; ,Congelamento,,508.365
+2015-10-12,Congelamento do ambiente; Feriado; Nossa Senhora Aparecida e Dia das Crianças; Aumento de transações CDO e ATM;,Feriado,,802.740
+2015-10-13,Congelamento do ambiente; Previsão de grande movimento;,Congelamento,,7.630.929
+2015-10-14,,Normal,,5.738.431
+2015-10-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,6.095.836
+2015-10-16,Movimento Batch – Empréstimo 0001;,Normal,,5.437.648
+2015-10-17,Utilização de Caixa Eletrônico;,Normal,,1.195.190
+2015-10-18,Utilização de Caixa Eletrônico;,Normal,,577.608
+2015-10-19,Movimento Segunda-Feira,Alto Risco,,6.228.766
+2015-10-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,6.425.041
+2015-10-21,,Normal,,5.140.882
+2015-10-22,Dia Produção Sisbr;,Normal,,4.779.349
+2015-10-23,,Normal,,4.942.443
+2015-10-24,Utilização de Caixa Eletrônico;,Normal,,1.121.788
+2015-10-25,Utilização de Caixa Eletrônico;,Normal,,598.316
+2015-10-26,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.081.082
+2015-10-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,4.955.948
+2015-10-28,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.884.766
+2015-10-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.789.584
+2015-10-30,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;,Atenção,,5.603.132
+2015-10-31,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Atenção,,1.217.426
+2015-11-01,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Processo de Migração/Incorporação; Previsão de grande movimento; Antecede feriado;,Congelamento,,542.850
+2015-11-02,Congelamento do ambiente; Feriado; Finados; Aumento de transações CDO e ATM; ,Feriado,,909.312
+2015-11-03,Congelamento do ambiente; Previsão de grande movimento; Pós feriado;,Congelamento,,7.267.971
+2015-11-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.852.856
+2015-11-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.073.808
+2015-11-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.754.444
+2015-11-07,Utilização de Caixa Eletrônico;,Normal,,1.490.997
+2015-11-08,Utilização de Caixa Eletrônico;,Normal,,716.274
+2015-11-09,Movimento Segunda-Feira; Arrecadação de Convênios;,Alto Risco,1,7.072.360
+2015-11-10,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS;,Atenção,,6.735.450
+2015-11-11,,Normal,,5.632.955
+2015-11-12,Dia Produção Sisbr;,Normal,,5.145.855
+2015-11-13,,Normal,,5.197.148
+2015-11-14,Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Feriado,,1.196.901
+2015-11-15,Feriado; Proclamação da República; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Feriado,,634.589
+2015-11-16,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,6.644.380
+2015-11-17,Dia Produção Sisbr;,Normal,,5.182.354
+2015-11-18,,Normal,,4.932.610
+2015-11-19,Dia Produção Sisbr;,Normal,,4.990.741
+2015-11-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,5.593.164
+2015-11-21,Utilização de Caixa Eletrônico;,Normal,,1.232.527
+2015-11-22,Utilização de Caixa Eletrônico;,Normal,,602.635
+2015-11-23,Movimento Segunda-Feira;,Alto Risco,,6.085.615
+2015-11-24,Dia Produção Sisbr; Pagamento de benefícios INSS;,Normal,,5.069.026
+2015-11-25,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.354.233
+2015-11-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.936.612
+2015-11-27,Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,5.367.583
+2015-11-28,Utilização de Caixa Eletrônico;,Normal,,1.405.792
+2015-11-29,Utilização de Caixa Eletrônico;,Normal,,735.571
+2015-11-30,Feriado; Dia do Evangélico; Aumento de transações CDO e ATM; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação,Feriado,,7.341.220
+2015-12-01,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,6.543.727
+2015-12-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.964.793
+2015-12-03,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.607.586
+2015-12-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.353.535
+2015-12-05,Utilização de Caixa Eletrônico,Normal,,1.580.146
+2015-12-06,Utilização de Caixa Eletrônico,Normal,,738.026
+2015-12-07,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,1,7.752.098
+2015-12-08,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios;,Normal,,5.184.431
+2015-12-09,Arrecadação de Convênios;,Normal,,5.960.938
+2015-12-10,Dia Produção Sisbr; Arrecadação de Convênios; Arrecadação de GPS;,Normal,,6.525.018
+2015-12-11,,Normal,,5.911.750
+2015-12-12,Utilização de Caixa Eletrônico,Normal,,1.369.298
+2015-12-13,Utilização de Caixa Eletrônico,Normal,,724.541
+2015-12-14,Movimento Segunda-Feira;,Alto Risco,,6.841.471
+2015-12-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; ,Normal,,6.487.954
+2015-12-16,Movimento Batch – Empréstimo 0001,Normal,,5.778.611
+2015-12-17,Dia Produção Sisbr,Atenção,,5.636.748
+2015-12-18,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais;,Atenção,,6.816.793
+2015-12-19,Congelamento do ambiente; Utilização de Caixa Eletrônico,Congelamento,,1.569.660
+2015-12-20,Congelamento do ambiente; Utilização de Caixa Eletrônico,Congelamento,,810.212
+2015-12-21,Congelamento do ambiente; Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial;,Congelamento,,7.460.518
+2015-12-22,Congelamento do ambiente;,Congelamento,,5.995.456
+2015-12-23,Congelamento do ambiente;,Congelamento,,5.848.490
+2015-12-24,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,3.257.213
+2015-12-25,Congelamento do ambiente; Feriado; Natal; Pagamento de benefícios INSS; Arrecadação de Convênios;,Feriado,,591.524
+2015-12-26,Congelamento do ambiente; Utilização de Caixa Eletrônico,Congelamento,,1.042.590
+2015-12-27,Congelamento do ambiente; Utilização de Caixa Eletrônico,Congelamento,,699.967
+2015-12-28,Congelamento do ambiente; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,6.551.602
+2015-12-29,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,5.077.529
+2015-12-30,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,5.450.864
+2015-12-31,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Congelamento,,1.877.840
+2016-01-01,Congelamento do ambiente; Feriado; Ano Novo; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Feriado,,626.097
+2016-01-02,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,1.044.122
+2016-01-03,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,815.159
+2016-01-04,Congelamento do ambiente; 1º dia útil; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,7.621.417
+2016-01-05,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Alto Risco,,6.733.883
+2016-01-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.022.390
+2016-01-07,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.358.450
+2016-01-08,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação de GPS;,Atenção,1,6.138.214
+2016-01-09,Utilização de Caixa Eletrônico,Normal,,1.508.445
+2016-01-10,Utilização de Caixa Eletrônico,Normal,,776.591
+2016-01-11,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,,7.989.132
+2016-01-12,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,6.058.523
+2016-01-13,,Normal,,5.720.504
+2016-01-14,Dia Produção Sisbr; ,Normal,,5.421.265
+2016-01-15,Movimento Batch – Empréstimo 0001;,Normal,,6.163.340
+2016-01-16,Utilização de Caixa Eletrônico,Normal,,1.299.958
+2016-01-17,Utilização de Caixa Eletrônico,Normal,,674.525
+2016-01-18,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,6.588.501
+2016-01-19,Dia Produção Sisbr;,Normal,,5.667.314
+2016-01-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,5.976.494
+2016-01-21,Dia Produção Sisbr; ,Normal,,5.343.036
+2016-01-22,,Normal,,5.182.414
+2016-01-23,Utilização de Caixa Eletrônico,Normal,,1.266.481
+2016-01-24,Utilização de Caixa Eletrônico,Normal,,641.029
+2016-01-25,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.235.083
+2016-01-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.351.875
+2016-01-27,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.113.730
+2016-01-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,4.982.030
+2016-01-29,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; ,Atenção,,5.757.998
+2016-01-30,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Atenção,,1.424.708
+2016-01-31,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Atenção,,757.703
+2016-02-01,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.017.729
+2016-02-02,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.949.855
+2016-02-03,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.778.037
+2016-02-04,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.847.157
+2016-02-05,Congelamento do ambiente; Aumento de transações CDO e ATM; Dia de grande movimento; Antecede feriado prolongado;,Congelamento,1,7.949.987
+2016-02-06,Congelamento do ambiente; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,1.533.485
+2016-02-07,Congelamento do ambiente; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,567.002
+2016-02-08,Congelamento do ambiente; Aumento de transações CDO e ATM; ,Congelamento,,1.488.832
+2016-02-09,Congelamento do ambiente; Feriado; Carnaval; Aumento de transações CDO e ATM;,Feriado,,976.111
+2016-02-10,Arrecadação de Convênios; Arrecadação de GPS; Pós feriado prolongado;,Alto Risco,,7.981.240
+2016-02-11,Dia Produção Sisbr; Arrecadação do Convênio IPVA;,Normal,,6.858.942
+2016-02-12,Arrecadação do Convênio IPVA;,Normal,,6.358.441
+2016-02-13,Utilização de Caixa Eletrônico,Normal,,1.490.660
+2016-02-14,Utilização de Caixa Eletrônico,Normal,,666.436
+2016-02-15,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA;,Alto Risco,,7.619.185
+2016-02-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA;,Normal,,6.001.209
+2016-02-17,Arrecadação do Convênio IPVA;,Normal,,5.545.200
+2016-02-18,Dia Produção Sisbr; Arrecadação do Convênio IPVA;,Normal,,5.383.806
+2016-02-19,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Arrecadação do Convênio IPVA;,Atenção,,6.045.619
+2016-02-20,Utilização de Caixa Eletrônico,Normal,,1.520.171
+2016-02-21,Utilização de Caixa Eletrônico,Normal,,401.749
+2016-02-22,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial; Arrecadação do Convênio IPVA;,Alto Risco,,7.061.153
+2016-02-23,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;,Normal,,5.506.761
+2016-02-24,Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;,Normal,,5.285.835
+2016-02-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.499.527
+2016-02-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.561.327
+2016-02-27,Utilização de Caixa Eletrônico,Normal,,1.440.622
+2016-02-28,Utilização de Caixa Eletrônico,Normal,,778.686
+2016-02-29,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,7.287.893
+2016-03-01,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação ,Alto Risco,,6.641.859
+2016-03-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.180.421
+2016-03-03,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,6.062.600
+2016-03-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.792.923
+2016-03-05,Utilização de Caixa Eletrônico;,Normal,,1.763.097
+2016-03-06,Utilização de Caixa Eletrônico;,Normal,,797.243
+2016-03-07,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,1,8.225.916
+2016-03-08,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; ,Normal,,6.237.515
+2016-03-09,Arrecadação de Convênios; ,Normal,,5.884.068
+2016-03-10,Dia Produção Sisbr; Arrecadação de Convênios; Arrecadação de GPS; ,Normal,,6.656.444
+2016-03-11,Arrecadação do Convênio IPVA;,Normal,,5.942.245
+2016-03-12,Utilização de Caixa Eletrônico;,Normal,,915.684
+2016-03-13,Utilização de Caixa Eletrônico;,Normal,,558.201
+2016-03-14,Movimento Segunda-Feira; Arrecadação do Convênio IPVA;,Alto Risco,,6.827.216
+2016-03-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA;,Atenção,,6.664.226
+2016-03-16,Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA;,Normal,,5.736.911
+2016-03-17,Dia Produção Sisbr; Arrecadação do Convênio IPVA;,Normal,,5.425.882
+2016-03-18,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Arrecadação do Convênio IPVA;,Atenção,,6.097.821
+2016-03-19,Utilização de Caixa Eletrônico,Normal,,1.425.201
+2016-03-20,Utilização de Caixa Eletrônico,Normal,,790.606
+2016-03-21,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial; Arrecadação do Convênio IPVA;,Alto Risco,,7.650.902
+2016-03-22,Dia Produção Sisbr; Arrecadação do Convênio IPVA; ,Normal,,5.861.874
+2016-03-23,Arrecadação do Convênio IPVA;,Normal,,5.703.947
+2016-03-24,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;,Congelamento,,5.294.970
+2016-03-25,Congelamento do ambiente; Feriado; Paixão de Cristo; Aumento de transações CDO e ATM;,Feriado,,858.650
+2016-03-26,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,1.091.864
+2016-03-27,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,662.303
+2016-03-28,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.055.853
+2016-03-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.669.180
+2016-03-30,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.807.243
+2016-03-31,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,6.242.557
+2016-04-01,Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,6.695.582
+2016-04-02,Utilização de Caixa Eletrônico;,Normal,,1.578.178
+2016-04-03,Utilização de Caixa Eletrônico;,Normal,,843.790
+2016-04-04,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.457.785
+2016-04-05,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.208.468
+2016-04-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.050.209
+2016-04-07,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,1,7.037.883
+2016-04-08,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,6.468.245
+2016-04-09,Utilização de Caixa Eletrônico;,Normal,,1.674.662
+2016-04-10,Utilização de Caixa Eletrônico;,Normal,,882.390
+2016-04-11,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,,8.396.883
+2016-04-12,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,6.402.755
+2016-04-13,,Normal,,5.852.853
+2016-04-14,Dia Produção Sisbr;,Normal,,5.656.171
+2016-04-15,Movimento Batch – Empréstimo 0001;,Normal,,6.554.605
+2016-04-16,Utilização de Caixa Eletrônico;,Normal,,1.459.237
+2016-04-17,Utilização de Caixa Eletrônico;,Normal,,713.267
+2016-04-18,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,6.901.605
+2016-04-19,Dia Produção Sisbr;,Normal,,6.059.109
+2016-04-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,7.151.124
+2016-04-21,Congelamento do ambiente;Feriado; Tiradentes; Aumento de transações CDO e ATM;,Feriado,,1.263.012
+2016-04-22,,Normal,,5.516.599
+2016-04-23,Utilização de Caixa Eletrônico;,Normal,,1.361.004
+2016-04-24,Utilização de Caixa Eletrônico;,Normal,,793.022
+2016-04-25,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.541.376
+2016-04-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.843.034
+2016-04-27,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.589.468
+2016-04-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,5.495.561
+2016-04-29,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;,Alto Risco,,6.571.185
+2016-04-30,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,1.650.777
+2016-05-01,Congelamento do ambiente; Feriado; Dia do Trabalho; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Feriado,,917.291
+2016-05-02,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.892.111
+2016-05-03,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.756.932
+2016-05-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.364.385
+2016-05-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,6.981.289
+2016-05-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,7.677.739
+2016-05-07,Congelamento do ambiente; Data comemorativa; Dia das Mães; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,1.832.683
+2016-05-08,Congelamento do ambiente; Data comemorativa; Dia das Mães; Aumento de transações CDO e ATM; Utilização de Caixa Eletrônico;,Congelamento,,849.652
+2016-05-09,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,,7.885.855
+2016-05-10,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS;,Alto Risco,,7.696.427
+2016-05-11,,Normal,,6.417.731
+2016-05-12,Dia Produção Sisbr;,Normal,,5.947.296
+2016-05-13,,Normal,,6.102.738
+2016-05-14,Utilização de Caixa Eletrônico,Normal,,1.568.434
+2016-05-15,Utilização de Caixa Eletrônico,Normal,,839.950
+2016-05-16,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001,Alto Risco,,8.159.136
+2016-05-17,Dia Produção Sisbr;,Normal,,6.103.596
+2016-05-18,,Normal,,5.775.325
+2016-05-19,Dia Produção Sisbr;,Normal,,5.589.413
+2016-05-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial,Alto Risco,,6.983.687
+2016-05-21,Utilização de Caixa Eletrônico,Normal,,1.537.200
+2016-05-22,Utilização de Caixa Eletrônico,Normal,,840.216
+2016-05-23,Movimento Segunda-Feira;,Alto Risco,,6.809.721
+2016-05-24,Dia Produção Sisbr;,Normal,,5.603.092
+2016-05-25,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.202.634
+2016-05-26,Congelamento do ambiente; Feriado; Corpus Christi; Aumento de transações CDO e ATM;,Feriado,,1.193.454
+2016-05-27,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.683.604
+2016-05-28,Utilização de Caixa Eletrônico,Normal,,1.454.603
+2016-05-29,Utilização de Caixa Eletrônico,Normal,,888.717
+2016-05-30,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.337.345
+2016-05-31,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,6.680.000
+2016-06-01,Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,6.865.832
+2016-06-02,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.375.278
+2016-06-03,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.752.929
+2016-06-04,Utilização de Caixa Eletrônico,Normal,,1.864.016
+2016-06-05,Utilização de Caixa Eletrônico,Normal,,962.168
+2016-06-06,Movimento Segunda-Feira; Arrecadação de Convênios; Pagamento de benefícios INSS,Alto Risco,,8.637.719
+2016-06-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Atenção,1,7.687.759
+2016-06-08,Arrecadação de Convênios; ,Normal,,6.534.334
+2016-06-09,Dia Produção Sisbr; Arrecadação de Convênios; ,Normal,,6.048.791
+2016-06-10,Pagamento de benefícios INSS; Arrecadação de GPS; Arrecadação de Convênios; ,Normal,,7.163.422
+2016-06-11,Data comemorativa; Dia dos Namorados; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; ,Atenção,,1.643.093
+2016-06-12,Data comemorativa; Dia dos Namorados; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; ,Atenção,,815.516
+2016-06-13,Movimento Segunda-Feira;,Alto Risco,,7.004.603
+2016-06-14,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,6.415.476
+2016-06-15,Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA;,Normal,,6.886.485
+2016-06-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,5.889.579
+2016-06-17,,Normal,,6.026.715
+2016-06-18,Utilização de Caixa Eletrônico,Normal,,1.537.654
+2016-06-19,Utilização de Caixa Eletrônico,Normal,,849.228
+2016-06-20,Movimento Segunda-Feira; Arrecadação de GPS; Arrecadação de Convênios; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial,Alto Risco,,8.260.657
+2016-06-21,Dia Produção Sisbr;,Normal,,6.143.762
+2016-06-22,,Normal,,5.759.676
+2016-06-23,Dia Produção Sisbr,Normal,,5.427.205
+2016-06-24,Pagamento de benefícios INSS;,Normal,,5.389.229
+2016-06-25,Utilização de Caixa Eletrônico,Normal,,1.437.889
+2016-06-26,Utilização de Caixa Eletrônico,Normal,,797.303
+2016-06-27,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Alto Risco,,6.930.545
+2016-06-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,5.846.878
+2016-06-29,Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,5.586.713
+2016-06-30,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,6.648.658
+2016-07-01,Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,7.035.396
+2016-07-02,Utilização de Caixa Eletrônico; Dia Internacional do Cooperativismo;,Normal,,1.708.358
+2016-07-03,Utilização de Caixa Eletrônico; Dia Internacional do Cooperativismo;,Normal,,937.833
+2016-07-04,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,8.011.163
+2016-07-05,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,7.525.288
+2016-07-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.647.868
+2016-07-07,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,7.473.708
+2016-07-08,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,6.990.172
+2016-07-09,Utilização de Caixa Eletrônico,Normal,,1.688.441
+2016-07-10,Utilização de Caixa Eletrônico,Normal,,959.364
+2016-07-11,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,,8.862.383
+2016-07-12,Dia Produção Sisbr;,Normal,,6.740.901
+2016-07-13,,Normal,,6.210.992
+2016-07-14,Dia Produção Sisbr;,Normal,,5.896.558
+2016-07-15,Movimento Batch – Empréstimo 0001;,Normal,,6.990.706
+2016-07-16,Utilização de Caixa Eletrônico,Normal,,1.570.308
+2016-07-17,Utilização de Caixa Eletrônico,Normal,,825.679
+2016-07-18,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,7.136.511
+2016-07-19,Dia Produção Sisbr;,Normal,,6.216.933
+2016-07-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,7.153.691
+2016-07-21,Dia Produção Sisbr;,Normal,,5.736.025
+2016-07-22,,Normal,,5.794.960
+2016-07-23,Utilização de Caixa Eletrônico,Normal,,1.494.778
+2016-07-24,Utilização de Caixa Eletrônico,Normal,,833.698
+2016-07-25,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,6.891.331
+2016-07-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.850.451
+2016-07-27,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.846.397
+2016-07-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,5.741.566
+2016-07-29,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;,Alto Risco,,6.543.546
+2016-07-30,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,1.731.383
+2016-07-31,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Atenção,,954.178
+2016-08-01,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Alto Risco,,8.331.219
+2016-08-02,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,6.979.401
+2016-08-03,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.775.555
+2016-08-04,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.694.572
+2016-08-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,8.536.231
+2016-08-06,Utilização de Caixa Eletrônico;,Normal,,1.947.929
+2016-08-07,Utilização de Caixa Eletrônico;,Normal,,1.042.028
+2016-08-08,Movimento Segunda-Feira; Arrecadação de Convênios;,Alto Risco,,8.487.584
+2016-08-09,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios;,Normal,,7.031.284
+2016-08-10,Arrecadação de Convênios; Arrecadação de GPS;,Atenção,,7.763.457
+2016-08-11,Dia Produção Sisbr;,Normal,,6.589.607
+2016-08-12,,Normal,,6.542.732
+2016-08-13,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Congelamento,,1.668.111
+2016-08-14,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Congelamento,,831.646
+2016-08-15,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,7.295.914
+2016-08-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,6.714.307
+2016-08-17,,Normal,,6.079.215
+2016-08-18,Dia Produção Sisbr;,Normal,,5.967.079
+2016-08-19,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais;,Atenção,,6.631.219
+2016-08-20,Utilização de Caixa Eletrônico;,Normal,,1.612.212
+2016-08-21,Utilização de Caixa Eletrônico;,Normal,,865.655
+2016-08-22,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,7.685.858
+2016-08-23,Dia Produção Sisbr;,Normal,,6.190.450
+2016-08-24,,Normal,,5.915.021
+2016-08-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.068.023
+2016-08-26,Pagamento de benefícios INSS;,Normal,,5.946.322
+2016-08-27,Utilização de Caixa Eletrônico;,Normal,,1.531.134
+2016-08-28,Utilização de Caixa Eletrônico;,Normal,,860.708
+2016-08-29,Movimento Segunda-Feira; Pagamento de benefícios INSS;,Alto Risco,,6.981.137
+2016-08-30,Dia Produção Sisbr; Pagamento de benefícios INSS;,Normal,,6.445.971
+2016-08-31,Pagamento de benefícios INSS; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,6.603.170
+2016-09-01,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Atenção,,7.224.280
+2016-09-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.061.030
+2016-09-03,Utilização de Caixa Eletrônico,Normal,,1.833.681
+2016-09-04,Utilização de Caixa Eletrônico,Normal,,1.021.376
+2016-09-05,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,9.050.621
+2016-09-06,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Previsão de grande movimento; Antecede feriado; Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,8.697.934
+2016-09-07,Congelamento do ambiente;Feriado; Independência do Brasil; Aumento de transações CDO e ATM; Pagamento de benefícios INSS;,Feriado,,1.726.726
+2016-09-08,Dia Produção Sisbr; Arrecadação de Convênios; Previsão de grande movimento; Pós feriado;,Alto Risco,1,8.106.237
+2016-09-09,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,7.686.600
+2016-09-10,Utilização de Caixa Eletrônico,Normal,,1.860.394
+2016-09-11,Utilização de Caixa Eletrônico,Normal,,1.042.415
+2016-09-12,Movimento Segunda-Feira; Arrecadação de Convênios;,Alto Risco,,9.668.142
+2016-09-13,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,7.292.358
+2016-09-14,,Normal,,6.984.273
+2016-09-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA,Normal,,7.517.279
+2016-09-16,Movimento Batch – Empréstimo 0001,Normal,,6.718.214
+2016-09-17,Utilização de Caixa Eletrônico,Normal,,1.666.639
+2016-09-18,Utilização de Caixa Eletrônico,Normal,,915.500
+2016-09-19,Movimento Segunda-Feira,Alto Risco,,8.044.639
+2016-09-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,8.113.569
+2016-09-21,,Normal,,6.630.192
+2016-09-22,Dia Produção Sisbr,Normal,,6.296.529
+2016-09-23,,Normal,,6.329.867
+2016-09-24,Utilização de Caixa Eletrônico,Normal,,1.589.425
+2016-09-25,Utilização de Caixa Eletrônico,Normal,,898.386
+2016-09-26,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,7.687.038
+2016-09-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.514.274
+2016-09-28,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.328.730
+2016-09-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.179.058
+2016-09-30,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,5.139.888
+2016-10-01,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Normal,,2.064.645
+2016-10-02,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Normal,,782.470
+2016-10-03,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,9.111.870
+2016-10-04,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,7.851.833
+2016-10-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.427.742
+2016-10-06,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.310.624
+2016-10-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,8.675.840
+2016-10-08,Utilização de Caixa Eletrônico;,Normal,,2.016.962
+2016-10-09,Utilização de Caixa Eletrônico;,Normal,,1.004.651
+2016-10-10,Movimento Segunda-Feira; Arrecadação de Convênios; Arrecadação de GPS; Previsão de grande movimento;,Alto Risco,,10.571.779
+2016-10-11,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Previsão de grande movimento; Antecede feriado;,Congelamento,,8.093.163
+2016-10-12,Congelamento do ambiente; Feriado; Nossa Senhora Aparecida e Dia das Crianças; Aumento de transações CDO e ATM;,Feriado,,1.484.444
+2016-10-13,Dia Produção Sisbr;,Normal,,7.670.113
+2016-10-14,,Normal,,7.220.626
+2016-10-15,Utilização de Caixa Eletrônico; ,Atenção,,1.825.981
+2016-10-16,Utilização de Caixa Eletrônico; ,Atenção,,999.649
+2016-10-17,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,8.779.104
+2016-10-18,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,7.084.987
+2016-10-19,,Normal,,6.794.927
+2016-10-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,7.801.055
+2016-10-21,,Normal,,6.604.774
+2016-10-22,Utilização de Caixa Eletrônico;,Normal,,1.709.675
+2016-10-23,Utilização de Caixa Eletrônico;,Normal,,925.051
+2016-10-24,Movimento Segunda-Feira;,Alto Risco,,7.403.560
+2016-10-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.959.613
+2016-10-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.323.092
+2016-10-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.206.838
+2016-10-28,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,6.403.803
+2016-10-29,Utilização de Caixa Eletrônico;,Normal,,1.703.600
+2016-10-30,Utilização de Caixa Eletrônico;,Normal,,775.739
+2016-10-31,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Alto Risco,,8.054.219
+2016-11-01,Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Congelamento,,7.893.302
+2016-11-02,Congelamento do ambiente; Feriado; Finados; Aumento de transações CDO e ATM; ,Feriado,,1.728.911
+2016-11-03,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.082.210
+2016-11-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.092.867
+2016-11-05,Utilização de Caixa Eletrônico;,Normal,,2.208.761
+2016-11-06,Utilização de Caixa Eletrônico;,Normal,,1.192.953
+2016-11-07,Movimento Segunda-Feira;Pagamento de benefícios INSS;Arrecadação de Convênios,Alto Risco,,10.335.073
+2016-11-08,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS;Arrecadação de Convênios,Normal,1,8.240.018
+2016-11-09,Arrecadação de Convênios,Normal,,7.412.879
+2016-11-10,Dia Produção Sisbr; Arrecadação de Convênios; Arrecadação de GPS; Previsão de grande movimento;,Atenção,,8.375.525
+2016-11-11,,Normal,,7.626.211
+2016-11-12,Utilização de Caixa Eletrônico;,Normal,,2.132.031
+2016-11-13,Utilização de Caixa Eletrônico;,Normal,,909.374
+2016-11-14,Congelamento do ambiente; Previsão de grande movimento;Antecede feriado; Movimento Segunda-Feira;Arrecadação de GPS;,Congelamento,,7.704.994
+2016-11-15,Feriado; Proclamação da República; Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Feriado,,1.745.941
+2016-11-16,Movimento Batch – Empréstimo 0001;,Normal,,8.725.388
+2016-11-17,Dia Produção Sisbr;,Normal,,7.292.949
+2016-11-18,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais;,Atenção,,7.647.560
+2016-11-19,Utilização de Caixa Eletrônico;,Normal,,1.953.348
+2016-11-20,Utilização de Caixa Eletrônico;,Normal,,1.164.932
+2016-11-21,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,9.161.216
+2016-11-22,Dia Produção Sisbr;,Normal,,7.123.872
+2016-11-23,,Normal,,6.634.776
+2016-11-24,Dia Produção Sisbr; Pagamento de benefícios INSS;,Normal,,6.472.359
+2016-11-25,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.260.967
+2016-11-26,Utilização de Caixa Eletrônico;,Normal,,1.854.216
+2016-11-27,Utilização de Caixa Eletrônico;,Normal,,1.065.787
+2016-11-28,Movimento Segunda-Feira;Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,8.018.545
+2016-11-29,Dia Produção Sisbr;Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,,6.872.467
+2016-11-30,Feriado; Dia do Evangélico; Aumento de transações CDO e ATM; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Feriado,,8.392.235
+2016-12-01,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Normal,,8.262.343
+2016-12-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.915.010
+2016-12-03,Utilização de Caixa Eletrônico;,Normal,,2.109.615
+2016-12-04,Utilização de Caixa Eletrônico;,Normal,,1.235.099
+2016-12-05,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,9.726.354
+2016-12-06,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.857.522
+2016-12-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,8.817.390
+2016-12-08,Dia Produção Sisbr; Arrecadação de Convênios;,Normal,,6.656.020
+2016-12-09,Arrecadação de Convênios; Arrecadação de GPS;,Atenção,,6.986.450
+2016-12-10,Utilização de Caixa Eletrônico;,Normal,,2.136.727
+2016-12-11,Utilização de Caixa Eletrônico;,Normal,,1.228.925
+2016-12-12,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,,9.888.297
+2016-12-13,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,7.680.608
+2016-12-14,,Normal,,7.433.313
+2016-12-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,8.125.618
+2016-12-16,Movimento Batch – Empréstimo 0001;,Normal,,7.688.629
+2016-12-17,Utilização de Caixa Eletrônico;,Normal,,2.082.147
+2016-12-18,Utilização de Caixa Eletrônico;,Normal,,1.189.171
+2016-12-19,Congelamento do ambiente;,Congelamento,,9.166.043
+2016-12-20,Congelamento do ambiente; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Congelamento,,10.142.774
+2016-12-21,Congelamento do ambiente;,Congelamento,,8.016.150
+2016-12-22,Congelamento do ambiente;,Congelamento,,7.491.851
+2016-12-23,Congelamento do ambiente;,Congelamento,,7.023.192
+2016-12-24,Congelamento do ambiente; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM; Antecede feriado;,Feriado,,1.756.574
+2016-12-25,Congelamento do ambiente; Feriado; Natal; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Feriado,,812.338
+2016-12-26,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,7.271.912
+2016-12-27,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,6.411.851
+2016-12-28,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,6.506.719
+2016-12-29,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,7.038.987
+2016-12-30,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;,Congelamento,,3.694.669
+2016-12-31,Congelamento do ambiente; Utilização de Caixa Eletrônico; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Congelamento,,1.568.903
+2017-01-01,Utilização de Caixa Eletrônico; Congelamento do ambiente; Feriado; Ano Novo; Processo de Migração/Incorporação; Aumento de transações CDO e ATM;,Feriado,,921.795
+2017-01-02,Congelamento do ambiente; 1º dia útil; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de grande movimento,Congelamento,,8.323.948
+2017-01-03,Congelamento do ambiente; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,7.977.983
+2017-01-04,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,7.393.318
+2017-01-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,8.018.534
+2017-01-06,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,1,8.912.834
+2017-01-07,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Normal,,2.305.728
+2017-01-08,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Normal,,1.231.237
+2017-01-09,Movimento Segunda-Feira;Arrecadação de Convênios,Alto Risco,,10.004.287
+2017-01-10,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS,Atenção,,9.514.197
+2017-01-11,,Normal,,8.124.440
+2017-01-12,Dia Produção Sisbr,Normal,,7.391.314
+2017-01-13,,Normal,,7.824.185
+2017-01-14,Utilização de Caixa Eletrônico,Normal,,2.014.184
+2017-01-15,Utilização de Caixa Eletrônico,Normal,,1.147.974
+2017-01-16,Movimento Segunda-Feira;Movimento Batch – Empréstimo 0001,Alto Risco,,9.233.440
+2017-01-17,Dia Produção Sisbr;Movimento Batch – Empréstimo 0001,Normal,,7.380.467
+2017-01-18,,Normal,,7.020.829
+2017-01-19,Dia Produção Sisbr,Normal,,6.900.517
+2017-01-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial,Atenção,,7.805.399
+2017-01-21,Utilização de Caixa Eletrônico,Normal,,1.943.248
+2017-01-22,Utilização de Caixa Eletrônico,Normal,,1.066.573
+2017-01-23,Movimento Segunda-Feira,Alto Risco,,8.207.559
+2017-01-24,Dia Produção Sisbr,Normal,,7.120.844
+2017-01-25,Pagamento de benefícios INSS;Arrecadação de Convênios,Normal,,7.140.965
+2017-01-26,Dia Produção Sisbr;Pagamento de benefícios INSS;Arrecadação de Convênios,Normal,,6.640.816
+2017-01-27,Pagamento de benefícios INSS;Arrecadação de Convênios,Normal,,6.845.882
+2017-01-28,Utilização de Caixa Eletrônico,Normal,,1.888.129
+2017-01-29,Utilização de Caixa Eletrônico,Normal,,1.093.921
+2017-01-30,Movimento Segunda-Feira;Pagamento de benefícios INSS;Arrecadação de Convênios,Alto Risco,,8.296.431
+2017-01-31,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;Processo de Migração/Incorporação,Atenção,,8.012.432
+2017-02-01,Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação,Normal,,8.067.295
+2017-02-02,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.496.950
+2017-02-03,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.963.758
+2017-02-04,Utilização de Caixa Eletrônico;,Normal,,2.258.981
+2017-02-05,Utilização de Caixa Eletrônico;,Normal,,1.251.259
+2017-02-06,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,9.918.193
+2017-02-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,1,9.035.797
+2017-02-08,Arrecadação de Convênios;,Normal,,7.730.929
+2017-02-09,Dia Produção Sisbr; Arrecadação de Convênios;,Normal,,7.760.597
+2017-02-10,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,8.778.717
+2017-02-11,Utilização de Caixa Eletrônico;,Normal,,2.136.421
+2017-02-12,Utilização de Caixa Eletrônico;,Normal,,1.202.257
+2017-02-13,Movimento Segunda-Feira;,Alto Risco,,9.268.000
+2017-02-14,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,7.800.644
+2017-02-15,Movimento Batch – Empréstimo 0001;,Normal,,8.352.104
+2017-02-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,7.259.539
+2017-02-17,Pagamento de benefícios INSS;,Normal,,7.404.681
+2017-02-18,Utilização de Caixa Eletrônico;,Normal,,2.066.206
+2017-02-19,Utilização de Caixa Eletrônico;,Normal,,1.207.146
+2017-02-20,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação de GPS;Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,10.351.596
+2017-02-21,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.929.568
+2017-02-22,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.493.580
+2017-02-23,Dia Produção Sisbr; Pagamento de benefícios INSS; Grande Movimento Batch; Arrecadação de Convênios; Liberação Operações de Crédito;,Normal,,7.399.962
+2017-02-24,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,8.546.390
+2017-02-25,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,1.989.663
+2017-02-26,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,904.188
+2017-02-27,Congelamento do ambiente; Aumento de transações CDO e ATM;,Congelamento,,2.133.479
+2017-02-28,Processo de Migração/Incorporação; Congelamento do ambiente; Feriado; Carnaval; Aumento de transações CDO e ATM;,Feriado,,1.525.684
+2017-03-01,Previsão de grande movimento; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação; Pós feriado,Alto Risco,,10.019.805
+2017-03-02,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.525.080
+2017-03-03,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.308.444
+2017-03-04,Utilização de Caixa Eletrônico,Normal,,2.559.148
+2017-03-05,Utilização de Caixa Eletrônico,Normal,,1.436.766
+2017-03-06,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,11.250.046
+2017-03-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios,Atenção,1,9.977.586
+2017-03-08,Arrecadação de Convênios,Normal,,8.973.774
+2017-03-09,Dia Produção Sisbr; Arrecadação de Convênios,Normal,,8.295.916
+2017-03-10,Arrecadação de Convênios;Arrecadação de GPS,Atenção,,9.779.267
+2017-03-11,Utilização de Caixa Eletrônico,Normal,,2.300.603
+2017-03-12,Utilização de Caixa Eletrônico,Normal,,1.237.703
+2017-03-13,Movimento Segunda-Feira,Alto Risco,,10.013.172
+2017-03-14,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação do Convênio IPVA,Normal,,8.419.529
+2017-03-15,Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA,Normal,,9.101.878
+2017-03-16,Dia Produção Sisbr;Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA,Atenção,,7.844.587
+2017-03-17,,Normal,,4.887.427
+2017-03-18,Utilização de Caixa Eletrônico,Normal,,1.463.826
+2017-03-19,Utilização de Caixa Eletrônico,Normal,,1.055.922
+2017-03-20,Movimento Segunda-Feira;Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,9.112.262
+2017-03-21,Dia Produção Sisbr;,Normal,,8.164.988
+2017-03-22,,Normal,,7.896.764
+2017-03-23,Dia Produção Sisbr;,Normal,,7.675.448
+2017-03-24,,Normal,,7.597.392
+2017-03-25,Utilização de Caixa Eletrônico,Normal,,2.047.319
+2017-03-26,Utilização de Caixa Eletrônico,Normal,,1.182.819
+2017-03-27,Movimento Segunda-Feira; Pagamento de benefícios INSS;Arrecadação de Convênios,Alto Risco,,8.893.905
+2017-03-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,7.433.388
+2017-03-29,Pagamento de benefícios INSS,Normal,,7.296.003
+2017-03-30,Dia Produção Sisbr;Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,7.607.408
+2017-03-31,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch ,Alto Risco,,8.511.748
+2017-04-01,Utilização de Caixa Eletrônico;Processo de Migração/Incorporação;,Normal,,2.492.762
+2017-04-02,Utilização de Caixa Eletrônico;Processo de Migração/Incorporação;,Normal,,1.418.723
+2017-04-03,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,10.741.415
+2017-04-04,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,9.233.408
+2017-04-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,10.327.472
+2017-04-06,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,10.345.531
+2017-04-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,10.763.124
+2017-04-08,Utilização de Caixa Eletrônico;,Normal,,2.513.268
+2017-04-09,Utilização de Caixa Eletrônico;,Normal,,1.466.731
+2017-04-10,Movimento Segunda-Feira; Arrecadação de Convênios; Arrecadação de GPS;Previsão de grande movimento no SISBR2.0,Alto Risco,,12.979.854
+2017-04-11,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,9.821.337
+2017-04-12,,Normal,,9.172.956
+2017-04-13,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;,Congelamento,,8.425.948
+2017-04-14,Congelamento do ambiente; Feriado; Paixão de Cristo; Aumento de transações CDO e ATM;,Feriado,,1.491.012
+2017-04-15,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,1.844.201
+2017-04-16,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,1.183.407
+2017-04-17,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,11.624.554
+2017-04-18,Dia Produção Sisbr;,Normal,,8.972.857
+2017-04-19,,Normal,,8.738.331
+2017-04-20,Congelamento do ambiente; Pagamento de benefícios INSS;Arrecadação do Convênio IPVA; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Congelamento,,10.410.149
+2017-04-21,Congelamento do ambiente; Feriado; Tiradentes; Aumento de transações CDO e ATM;,Feriado,,1.871.321
+2017-04-22,Congelamento do ambiente; Utilização de Caixa Eletrônico; ,Congelamento,,1.914.494
+2017-04-23,Congelamento do ambiente; Utilização de Caixa Eletrônico;,Congelamento,,1.218.797
+2017-04-24,Movimento Segunda-Feira; Pagamento de benefícios INSS;,Alto Risco,,10.413.589
+2017-04-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,9.325.260
+2017-04-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.463.173
+2017-04-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.561.517
+2017-04-28,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch;,Congelamento,,9.203.017
+2017-04-29,Congelamento do ambiente; Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Congelamento,,2.227.634
+2017-04-30,Congelamento do ambiente; Utilização de Caixa Eletrônico; Processo de Migração/Incorporação;,Congelamento,,1.068.242
+2017-05-01,Congelamento do ambiente; Feriado; Dia do Trabalho; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação; Aumento de transações CDO e ATM,Feriado,,1.897.589
+2017-05-02,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações CDO e ATM; Previsão de grande movimento;,Alto Risco,,12.151.904
+2017-05-03,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,10.146.768
+2017-05-04,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.634.207
+2017-05-05,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,11.689.199
+2017-05-06,Utilização de Caixa Eletrônico,Normal,,2.742.886
+2017-05-07,Utilização de Caixa Eletrônico,Normal,,1.289.440
+2017-05-08,Movimento Segunda-Feira; Arrecadação de Convênios,Alto Risco,1,11.725.252
+2017-05-09,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios,Normal,,9.780.715
+2017-05-10,Arrecadação de Convênios; Arrecadação de GPS,Normal,,10.712.579
+2017-05-11,Dia Produção Sisbr,Normal,,9.067.317
+2017-05-12,,Normal,,8.806.965
+2017-05-13,Congelamento do ambiente; Data comemorativa; Dia das Mães; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM,Congelamento,,2.284.740
+2017-05-14,Congelamento do ambiente; Data comemorativa; Dia das Mães; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM,Congelamento,,1.225.934
+2017-05-15,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001; Aumento de transações CDO e ATM,Alto Risco,,11.418.918
+2017-05-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001,Normal,,8.902.816
+2017-05-17,,Normal,,8.446.273
+2017-05-18,Dia Produção Sisbr,Normal,,8.048.208
+2017-05-19,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais,Atenção,,8.882.485
+2017-05-20,Utilização de Caixa Eletrônico,Normal,,2.295.994
+2017-05-21,Utilização de Caixa Eletrônico,Normal,,1.285.384
+2017-05-22,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial,Alto Risco,,10.437.889
+2017-05-23,Dia Produção Sisbr,Normal,,8.423.719
+2017-05-24,,Normal,,7.806.675
+2017-05-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,8.273.289
+2017-05-26,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,7.981.293
+2017-05-27,Utilização de Caixa Eletrônico,Normal,,2.074.497
+2017-05-28,Utilização de Caixa Eletrônico,Normal,,1.203.092
+2017-05-29,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,9.281.637
+2017-05-30,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,8.598.316
+2017-05-31,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação,Alto Risco,,8.902.166
+2017-06-01,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação,Normal,,9.255.977
+2017-06-02,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.422.471
+2017-06-03,Utilização de Caixa Eletrônico,Normal,,2.408.955
+2017-06-04,Utilização de Caixa Eletrônico,Normal,,1.469.757
+2017-06-05,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,9.054.276
+2017-06-06,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,11.030.501
+2017-06-07,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,1,10.746.010
+2017-06-08,Dia Produção Sisbr; Arrecadação de Convênios,Normal,,9.083.871
+2017-06-09,Arrecadação de Convênios; Arrecadação de GPS,Normal,,9.277.700
+2017-06-10,Utilização de Caixa Eletrônico,Normal,,2.502.047
+2017-06-11,Utilização de Caixa Eletrônico,Normal,,1.446.207
+2017-06-12,Movimento Segunda-Feira; Arrecadação de Convênios; Previsão de grande movimento,Alto Risco,,11.866.316
+2017-06-13,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,8.985.666
+2017-06-14,,Normal,,10.128.798
+2017-06-15,Congelamento do ambiente; Feriado;  Corpus Christi; Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; Aumento de transações CDO e ATM;,Feriado,,2.381.147
+2017-06-16,Congelamento do ambiente; Movimento Batch – Empréstimo 0001,Congelamento,,9.885.427
+2017-06-17,Utilização de Caixa Eletrônico,Normal,,2.483.990
+2017-06-18,Utilização de Caixa Eletrônico,Normal,,1.561.655
+2017-06-19,Movimento Segunda-Feira;,Alto Risco,,11.713.379
+2017-06-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial,Atenção,,11.589.323
+2017-06-21,,Normal,,9.414.232
+2017-06-22,Dia Produção Sisbr,Normal,,8.800.971
+2017-06-23,,Normal,,8.739.487
+2017-06-24,Utilização de Caixa Eletrônico,Normal,,2.040.735
+2017-06-25,Utilização de Caixa Eletrônico,Normal,,1.205.713
+2017-06-26,Movimento Segunda-Feira; Arrecadação de Convênios,Alto Risco,,9.741.483
+2017-06-27,Dia Produção Sisbr; Arrecadação de Convênios,Normal,,8.225.002
+2017-06-28,Arrecadação de Convênios,Normal,,8.148.044
+2017-06-29,Dia Produção Sisbr; Arrecadação de Convênios,Normal,,7.812.411
+2017-06-30,Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação,Normal,,9.591.792
+2017-07-01,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Normal,,2.644.774
+2017-07-02,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação,Normal,,1.456.506
+2017-07-03,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,11.574.194
+2017-07-04,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,9.787.863
+2017-07-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,10.365.406
+2017-07-06,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,10.197.206
+2017-07-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,10.650.912
+2017-07-08,Utilização de Caixa Eletrônico,Normal,,2.527.239
+2017-07-09,Utilização de Caixa Eletrônico,Normal,,1.495.262
+2017-07-10,Movimento Segunda-Feira; Arrecadação de Convênios; Arrecadação de GPS; Previsão de grande movimento,Alto Risco,,12.675.018
+2017-07-11,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,9.656.092
+2017-07-12,,Normal,,8.717.427
+2017-07-13,Dia Produção Sisbr;,Normal,,8.101.309
+2017-07-14,,Normal,,8.608.546
+2017-07-15,Utilização de Caixa Eletrônico,Normal,,2.098.882
+2017-07-16,Utilização de Caixa Eletrônico,Normal,,1.197.574
+2017-07-17,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,10.074.335
+2017-07-18,Dia Produção Sisbr;,Normal,,7.969.416
+2017-07-19,,Normal,,7.841.867
+2017-07-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,9.103.256
+2017-07-21,,Normal,,7.754.031
+2017-07-22,Utilização de Caixa Eletrônico,Normal,,2.005.781
+2017-07-23,Utilização de Caixa Eletrônico,Normal,,1.161.938
+2017-07-24,Movimento Segunda-Feira;,Alto Risco,,9.291.788
+2017-07-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.143.709
+2017-07-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.392.098
+2017-07-27,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.327.964
+2017-07-28,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.798.826
+2017-07-29,Utilização de Caixa Eletrônico,Normal,,2.110.854
+2017-07-30,Utilização de Caixa Eletrônico,Normal,,1.203.973
+2017-07-31,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação,Alto Risco,,10.101.575
+2017-08-01,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação,Atenção,,9.665.827
+2017-08-02,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,8.826.741
+2017-08-03,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,8.867.278
+2017-08-04,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.890.278
+2017-08-05,Utilização de Caixa Eletrônico,Normal,,2.589.575
+2017-08-06,Utilização de Caixa Eletrônico,Normal,,1.450.024
+2017-08-07,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,1,11.200.971
+2017-08-08,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios,Normal,,9.414.466
+2017-08-09,Arrecadação de Convênios,Normal,,8.769.517
+2017-08-10,Dia Produção Sisbr; Arrecadação de Convênios; Arrecadação de GPS,Normal,,9.802.914
+2017-08-11,,Normal,,8.835.101
+2017-08-12,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Congelamento,,2.216.939
+2017-08-13,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Congelamento,,1.172.317
+2017-08-14,Movimento Segunda-Feira; Previsão de grande movimento,Alto Risco,,9.936.179
+2017-08-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001,Normal,,8.530.835
+2017-08-16,Movimento Batch – Empréstimo 0001,Normal,,8.459.285
+2017-08-17,Dia Produção Sisbr,Normal,,7.988.173
+2017-08-18,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais,Atenção,,8.600.047
+2017-08-19,Utilização de Caixa Eletrônico,Normal,,2.167.696
+2017-08-20,Utilização de Caixa Eletrônico,Normal,,1.265.808
+2017-08-21,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial,Alto Risco,,10.417.005
+2017-08-22,Dia Produção Sisbr,Normal,,8.206.390
+2017-08-23,,Normal,,7.668.037
+2017-08-24,Dia Produção Sisbr,Normal,,7.360.854
+2017-08-25,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,7.982.997
+2017-08-26,Utilização de Caixa Eletrônico,Normal,,2.017.879
+2017-08-27,Utilização de Caixa Eletrônico,Normal,,1.163.936
+2017-08-28,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,9.129.861
+2017-08-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,7.871.605
+2017-08-30,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,8.170.380
+2017-08-31,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação,Atenção,,8.609.005
+2017-09-01,Pagamento de benefícios INSS;Arrecadação de Convênios;Processo de Migração/Incorporação,Normal,,9.571.995
+2017-09-02,Utilização de Caixa Eletrônico,Normal,,2.411.988
+2017-09-03,Utilização de Caixa Eletrônico,Normal,,1.421.248
+2017-09-04,Movimento Segunda-Feira;Pagamento de benefícios INSS;Arrecadação de Convênios;,Alto Risco,,11.056.159
+2017-09-05,Movimento Batch – Compe Inferior; Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,,10.577.393
+2017-09-06,Pagamento de benefícios INSS; Arrecadação de Convênios;Previsão de grande movimento; Antecede feriado;,Normal,,10.809.587
+2017-09-07,Congelamento do ambiente; Feriado; Independência do Brasil; Pagamento de benefícios INSS;Aumento de transações CDO e ATM;,Feriado,,2.179.699
+2017-09-08, Previsão de grande movimento; Pós feriado; Arrecadação de Convênios;Arrecadação de GPS;,Normal,1,9.575.169
+2017-09-09,Utilização de Caixa Eletrônico,Normal,,2.403.172
+2017-09-10,Utilização de Caixa Eletrônico,Normal,,1.537.092
+2017-09-11,Movimento Segunda-Feira;Arrecadação de Convênios;Previsão de grande movimento;Previsão de grande movimento no cobrança - nova onda;,Alto Risco,,10.766.326
+2017-09-12,Movimento Batch – Compe Inferior,Normal,,9.841.893
+2017-09-13,,Normal,,8.823.669
+2017-09-14,Dia Produção Sisbr,Normal,,8.402.908
+2017-09-15,Movimento Batch – Empréstimo 0001,Atenção,,9.424.851
+2017-09-16,Utilização de Caixa Eletrônico,Normal,,2.208.105
+2017-09-17,Utilização de Caixa Eletrônico,Normal,,1.284.190
+2017-09-18,Movimento Segunda-Feira;Movimento Batch – Empréstimo 0001,Alto Risco,,10.146.905
+2017-09-19,,Normal,,8.813.273
+2017-09-20,Arrecadação de GPS;Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais;Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,9.982.276
+2017-09-21,Dia Produção Sisbr,Normal,,8.143.749
+2017-09-22,,Normal,,8.085.017
+2017-09-23,Utilização de Caixa Eletrônico,Normal,,2.091.153
+2017-09-24,Utilização de Caixa Eletrônico,Normal,,1.225.192
+2017-09-25,Movimento Segunda-Feira; Pagamento de benefícios INSS;Arrecadação de Convênios; Previsão de grande movimento no cobrança - nova onda;,Alto Risco,,9.880.651
+2017-09-26,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.223.591
+2017-09-27,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.849.994
+2017-09-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,7.952.183
+2017-09-29,Pagamento de benefícios INSS; Arrecadação de Convênios;Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,9.123.848
+2017-09-30,Utilização de Caixa Eletrônico,Normal,,2.349.581
+2017-10-01,Utilização de Caixa Eletrônico; ,Normal,,1.509.973
+2017-10-02,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação;,Alto Risco,,11.538.686
+2017-10-03,Dia Produção Sisbr;Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,10.029.297
+2017-10-04,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,8.970.244
+2017-10-05,Dia Produção Sisbr;Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,10.144.620
+2017-10-06,Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,1,11.403.806
+2017-10-07,Utilização de Caixa Eletrônico; ,Normal,,2.744.998
+2017-10-08,Utilização de Caixa Eletrônico; ,Normal,,1.531.156
+2017-10-09,Movimento Segunda-Feira;Arrecadação de Convênios; Ativação consulta Boleto DDA;,Alto Risco,,11.673.808
+2017-10-10,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS; Previsão de grande movimento;,Atenção,,11.169.810
+2017-10-11,Aumento de transações CDO e ATM; Previsão de grande movimento; Antecede feriado;,Normal,,9.917.713
+2017-10-12,Congelamento do ambiente; Feriado; Nossa Senhora Aparecida e Dia das Crianças; Aumento de transações CDO e ATM;,Feriado,,1.899.492
+2017-10-13,Previsão de grande movimento; Pós feriado; Arrecadação de Convênios; Arrecadação de GPS;,Atenção,,8.557.583
+2017-10-14,Utilização de Caixa Eletrônico; ,Normal,,2.237.318
+2017-10-15,Utilização de Caixa Eletrônico; ,Normal,,1.385.239
+2017-10-16,Movimento Segunda-Feira;Movimento Batch – Empréstimo 0001;,Alto Risco,,11.479.308
+2017-10-17,Dia Produção Sisbr;Movimento Batch – Empréstimo 0001;,Normal,,9.216.783
+2017-10-18,,Normal,,8.621.913
+2017-10-19,Dia Produção Sisbr;,Normal,,8.432.610
+2017-10-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,10.249.146
+2017-10-21,Utilização de Caixa Eletrônico; ,Normal,,2.306.241
+2017-10-22,Utilização de Caixa Eletrônico; ,Normal,,1.324.917
+2017-10-23,Movimento Segunda-Feira;,Alto Risco,,9.921.817
+2017-10-24,Dia Produção Sisbr;,Normal,,8.343.097
+2017-10-25,Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,,8.680.446
+2017-10-26,Dia Produção Sisbr;Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,,7.892.461
+2017-10-27,Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,,8.324.907
+2017-10-28,Utilização de Caixa Eletrônico; ,Normal,,2.207.142
+2017-10-29,Utilização de Caixa Eletrônico; ,Normal,,1.321.161
+2017-10-30,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,10.338.261
+2017-10-31,Dia Produção Sisbr;Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,9.800.370
+2017-11-01,Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Arrecadação de Convênios; Processo de Migração/Incorporação;,Congelamento,,8.107.572
+2017-11-02,Congelamento do ambiente; Feriado; Finados; Aumento de transações CDO e ATM;,Feriado,,1.430.463
+2017-11-03,Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de grande movimento; Pós feriado;,Normal,,7.941.357
+2017-11-04,Utilização de Caixa Eletrônico; ,Normal,,1.928.497
+2017-11-05,Utilização de Caixa Eletrônico; ,Normal,,1.079.633
+2017-11-06,Movimento Segunda-Feira ; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,10.240.949
+2017-11-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,9.730.195
+2017-11-08,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,10.787.608
+2017-11-09,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,9.668.212
+2017-11-10,Arrecadação de Convênios; Arrecadação de GPS; Dia de grande movimento;,Normal,,9.057.271
+2017-11-11,Utilização de Caixa Eletrônico; ,Normal,,2.705.415
+2017-11-12,Utilização de Caixa Eletrônico; ,Normal,,1.379.410
+2017-11-13,Movimento Segunda-Feira;,Alto Risco,,10.897.594
+2017-11-14, Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Movimento Batch – Compe Inferior;,Congelamento,,9.569.054
+2017-11-15,Congelamento do ambiente; Feriado; Proclamação da República; Aumento de transações CDO e ATM; Movimento Batch – Empréstimo ,Feriado,,2.090.666
+2017-11-16,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Movimento Batch – Empréstimo 0001; Previsão de grande movimento; Pós feriado;,Normal,,10.800.310
+2017-11-17,,Normal,,9.761.021
+2017-11-18,Utilização de Caixa Eletrônico; ,Normal,,2.617.550
+2017-11-19,Utilização de Caixa Eletrônico; ,Normal,,1.496.329
+2017-11-20,Movimento Segunda-Feira ; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Alto Risco,,11.770.169
+2017-11-21,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,10.117.238
+2017-11-22,,Normal,,9.059.566
+2017-11-23,Dia Produção Sisbr;,Normal,,8.545.384
+2017-11-24,Pagamento de benefícios INSS;,Normal,,8.980.437
+2017-11-25,Utilização de Caixa Eletrônico; ,Normal,,2.471.504
+2017-11-26,Utilização de Caixa Eletrônico; ,Normal,,1.420.463
+2017-11-27,Movimento Segunda-Feira ; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,9.360.998
+2017-11-28,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Atenção,,9.838.658
+2017-11-29,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,9.125.017
+2017-11-30,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; ,Atenção,,11.092.322
+2017-12-01,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,11.162.731
+2017-12-02,Utilização de Caixa Eletrônico; ,Normal,,2.960.465
+2017-12-03,Utilização de Caixa Eletrônico; ,Normal,,1.876.378
+2017-12-04,Movimento Segunda-Feira; Pagamento de benefícios INSS; ,Alto Risco,,12.954.057
+2017-12-05,Dia Produção Sisbr;Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,11.630.686
+2017-12-06,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,11.804.838
+2017-12-07,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,12.482.763
+2017-12-08,Arrecadação de Convênios; Arrecadação de GPS;,Normal,,9.413.372
+2017-12-09,Utilização de Caixa Eletrônico; ,Normal,,2.951.792
+2017-12-10,Utilização de Caixa Eletrônico; ,Normal,,1.778.613
+2017-12-11,Movimento Segunda-Feira; Arrecadação de Convênios;,Alto Risco,,13.921.253
+2017-12-12,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,11.331.098
+2017-12-13,,Normal,,10.380.903
+2017-12-14,Dia Produção Sisbr;,Normal,,10.126.375
+2017-12-15,Movimento Batch – Empréstimo 0001;,Normal,,11.794.591
+2017-12-16,Congelamento do ambiente; Utilização de Caixa Eletrônico; ,Congelamento,,2.995.663
+2017-12-17,Congelamento do ambiente; Utilização de Caixa Eletrônico; ,Congelamento,,1.768.431
+2017-12-18,Congelamento do ambiente;Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Congelamento,,12.311.567
+2017-12-19,Congelamento do ambiente;,Congelamento,,11.318.437
+2017-12-20,Congelamento do ambiente; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Congelamento,,14.003.145
+2017-12-21,Congelamento do ambiente;,Congelamento,,11.194.304
+2017-12-22,Congelamento do ambiente; Pagamento de benefícios INSS;Previsão de grande movimento;,Congelamento,,11.136.529
+2017-12-23,Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Utilização de Caixa Eletrônico ; ,Congelamento,,3.136.174
+2017-12-24,Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Utilização de Caixa Eletrônico ; ,Congelamento,,1.528.901
+2017-12-25,Congelamento do ambiente; Feriado; Natal; Movimento Segunda-Feira; Aumento de transações CDO e ATM; ,Feriado,,1.373.390
+2017-12-26,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de grande movimento; Pós feriado;,Congelamento,,11.250.357
+2017-12-27,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios;,Congelamento,,9.839.080
+2017-12-28,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de grande movimento; ,Congelamento,,10.829.743
+2017-12-29,Congelamento do ambiente;,Congelamento,,5.985.257
+2017-12-30,Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Congelamento,,2.644.939
+2017-12-31,Congelamento do ambiente; Previsão de grande movimento; Antecede feriado; Utilização de Caixa Eletrônico; Aumento de transações CDO e ATM;,Congelamento,,1.346.635
+2018-01-01,Congelamento do ambiente; Feriado; Ano Novo; Movimento Segunda-Feira; Aumento de transações CDO e ATM; ,Feriado,,1.556.005
+2018-01-02,Congelamento do ambiente; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Previsão de grande movimento;,Congelamento,,12.446.636
+2018-01-03,Congelamento do ambiente; Arrecadação de Convênios; ,Congelamento,,10.907.459
+2018-01-04,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,9.893.671
+2018-01-05,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,12.641.159
+2018-01-06,Utilização de Caixa Eletrônico ,Normal,,3.450.104
+2018-01-07,Utilização de Caixa Eletrônico ,Normal,,2.022.662
+2018-01-08,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Previsão de grande movimento;,Alto Risco,1,14.196.163
+2018-01-09,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,12.327.608
+2018-01-10,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação de GPS; ,Normal,,13.425.064
+2018-01-11,Dia Produção Sisbr;,Normal,,11.536.861
+2018-01-12,,Normal,,10.922.666
+2018-01-13,Utilização de Caixa Eletrônico ,Normal,,2.985.146
+2018-01-14,Utilização de Caixa Eletrônico ,Normal,,1.783.973
+2018-01-15,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001,Alto Risco,,13.753.307
+2018-01-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001;,Normal,,11.100.201
+2018-01-17,,Normal,,10.261.791
+2018-01-18,Dia Produção Sisbr;,Normal,,9.907.071
+2018-01-19,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial;,Atenção,,10.982.070
+2018-01-20,Utilização de Caixa Eletrônico ,Normal,,2.920.633
+2018-01-21,Utilização de Caixa Eletrônico ,Normal,,1.784.714
+2018-01-22,Movimento Segunda-Feira;,Alto Risco,,12.528.492
+2018-01-23,Dia Produção Sisbr;,Normal,,10.320.791
+2018-01-24,Pagamento de benefícios INSS;,Normal,,9.487.811
+2018-01-25,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,9.895.671
+2018-01-26,Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,9.597.900
+2018-01-27,Utilização de Caixa Eletrônico ,Normal,,2.728.978
+2018-01-28,Utilização de Caixa Eletrônico ,Normal,,1.655.424
+2018-01-29,Movimento Segunda-Feira; Arrecadação de Convênios; ,Alto Risco,,11.156.486
+2018-01-30,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; ,Normal,,10.553.459
+2018-01-31,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação;,Atenção,,11.138.102
+2018-02-01,"Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação; Previsão de alto tempo no processamento dos produtos empréstimo, crédito rural e TD durante o fechamento confederação;",Normal,,11.577.384
+2018-02-02,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,,11.247.998
+2018-02-03,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.942.311
+2018-02-04,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,191.971
+2018-02-05,Movimento Segunda-Feira; Pagamento de benefícios INSS;Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança,Alto Risco,,13.216.023
+2018-02-06,Dia Produção Sisbr; Aumento no Movimento de Compe Inferior; Pagamento de benefícios INSS;Arrecadação de Convênios;,Normal,,12.165.197
+2018-02-07,Pagamento de benefícios INSS; Arrecadação de Convênios;,Normal,1,12.053.562
+2018-02-08,Dia Produção Sisbr; Arrecadação de Convênios;,Normal,,10.674.498
+2018-02-09,Congelamento do ambiente; Aumento de transações CDO e ATM; Dia de grande movimento; Antecede feriado prolongado; Arrecadação de Convênios; Arrecadação de GPS; Arrecadação do Convênio IPVA;,Congelamento,,11.281.627
+2018-02-10,Congelamento do ambiente; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Congelamento,,2.804.511
+2018-02-11,Congelamento do ambiente; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Congelamento,,1.328.178
+2018-02-12,Congelamento do ambiente; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Congelamento,,3.155.144
+2018-02-13,Congelamento do ambiente; Feriado; Carnaval; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Feriado,,2.053.110
+2018-02-14,Congelamento do ambiente; Previsão de grande movimento; Pós feriado; Previsão de grande movimento;,Congelamento,,12.456.931
+2018-02-15,Dia Produção Sisbr;Movimento Batch – Empréstimo 0001; Arrecadação do Convênio IPVA;,Normal,,12.520.776
+2018-02-16,Movimento Batch – Empréstimo 0001;,Normal,,10.869.531
+2018-02-17,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte,Normal,,2.860.815
+2018-02-18,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte; ,Normal,,1.673.376
+2018-02-19,Movimento Segunda-Feira;Arrecadação do Convênio IPVA; Aumento no volume de processamento do produto Poupança,Alto Risco,,12.176.596
+2018-02-20,Dia Produção Sisbr;Arrecadação de GPS; Arrecadação de DARF e DAS;Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial; Arrecadação do Convênio IPVA;,Atenção,,12.202.950
+2018-02-21,Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,9.898.130
+2018-02-22,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA;Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,9.455.271
+2018-02-23,Pagamento de benefícios INSS; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,9.584.897
+2018-02-24,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.574.318
+2018-02-25,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.578.501
+2018-02-26,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA; Aumento no volume de processamento do produto Poupança,Alto Risco,,11.377.905
+2018-02-27,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,9.976.116
+2018-02-28,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch ;Processo de Migração/Incorporação;,Atenção,,11.332.752
+2018-03-01,"Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação; Previsão de alto tempo no processamento dos produtos empréstimo, crédito rural e TD durante o fechamento confederação;",Atenção,,11.587.287
+2018-03-02,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,11.294.472
+2018-03-03,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,3.216.554
+2018-03-04,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.861.603
+2018-03-05,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança,Alto Risco,,14.178.722
+2018-03-06,Dia Produção Sisbr; Movimento Batch – Aumento nas transações de Devolução na Compe; Transações de compe Inferior ; Pagamento de benefícios INSS; Arrecadação de Convênios ,Normal,,12.858.246
+2018-03-07,Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento nas transações de cartões,Normal,1,12.520.494
+2018-03-08,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões,Normal,,10.590.909
+2018-03-09,Arrecadação de Convênios; Aumento do volume de transações para os Canais Digitais e Canais Convencionais,Atenção,,10.961.045
+2018-03-10,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.334.751
+2018-03-11,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.038.665
+2018-03-12,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação de GPS; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Aumento no tempo de processamento Batch;,Alto Risco,,13.053.789
+2018-03-13,Dia Produção Sisbr; Movimento Batch – Aumento nas transações de Devolução na Compe; Transações de compe Inferior ,Normal,,10.729.529
+2018-03-14,,Normal,,10.137.092
+2018-03-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001,Normal,,11.051.381
+2018-03-16,Movimento Batch – Empréstimo 0001,Normal,,10.101.090
+2018-03-17,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.747.501
+2018-03-18,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.535.277
+2018-03-19,Movimento Segunda-Feira; Aumento no volume de processamento do produto Poupança; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Alto Risco,,9.945.418
+2018-03-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,10.468.099
+2018-03-21,Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,8.505.598
+2018-03-22,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,7.945.478
+2018-03-23,Pagamento de benefícios INSS; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,8.012.246
+2018-03-24,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.656.607
+2018-03-25,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.655.868
+2018-03-26,Movimento Segunda-Feira; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança,Alto Risco,,11.512.998
+2018-03-27,Dia Produção Sisbr; Movimento Batch – Aumento nas transações de Devolução na Compe; Transações de compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.960.302
+2018-03-28,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,10.342.479
+2018-03-29,Congelamento do ambiente; Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch ; Aumento de transações CDO e ATM;,Congelamento,,10.296.548
+2018-03-30,Congelamento do ambiente; Feriado; Paixão de Cristo; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Feriado,,2.029.444
+2018-03-31,Congelamento do ambiente; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;Processo de Migração/Incorporação ,Congelamento,,2.398.189
+2018-04-01,Congelamento do ambiente; Feriado; Páscoa; Arrecadação de Convênios; Processo de Migração/Incorporação; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;Processo de Migração/Incorporação ,Feriado,,1.680.411
+2018-04-02,Previsão de grande movimento; Pós feriado; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança,Alto Risco,,14.170.440
+2018-04-03,Dia Produção Sisbr; Movimento Batch – Aumento nas transações de Devolução na Compe; Transações de compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,11.961.583
+2018-04-04,Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões,Normal,,11.172.054
+2018-04-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões,Normal,,12.089.675
+2018-04-06,Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões,Normal,1,13.580.517
+2018-04-07,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Arrecadação de Convênios; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,3.415.268
+2018-04-08,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Arrecadação de Convênios; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.927.126
+2018-04-09,Movimento Segunda-Feira; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança,Alto Risco,,13.742.105
+2018-04-10,Dia Produção Sisbr; Movimento Batch – Aumento nas transações de Devolução na Compe; Transações de compe Inferior; Arrecadação de Convênios; Arrecadação de GPS; Aumento do volume de transações para os Canais Digitais e Canais Convencionais ,Atenção,,13.529.133
+2018-04-11,,Normal,,11.442.021
+2018-04-12,Dia Produção Sisbr; Aumento de transações de cartões,Normal,,10.468.484
+2018-04-13,,Normal,,10.348.294
+2018-04-14,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.834.231
+2018-04-15,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,942.804
+2018-04-16,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001; Aumento no volume de processamento do produto Poupança,Alto Risco,,6.098.172
+2018-04-17,"Dia Produção Sisbr; Movimento Batch – Empréstimo 0001
+",Normal,,9.337.629
+2018-04-18,,Normal,,8.750.568
+2018-04-19,Dia Produção Sisbr; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,8.744.740
+2018-04-20,Congelamento do ambiente; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Congelamento,,10.640.156
+2018-04-21,Congelamento do ambiente; Feriado; Tiradentes; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Feriado,,2.111.416
+2018-04-22,Congelamento do ambiente; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Feriado,,1.539.255
+2018-04-23,Movimento Segunda-Feira; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Alto Risco,,10.726.911
+2018-04-24,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Atenção,,9.445.967
+2018-04-25,Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões; Arrecadação do Convênio IPVA,Normal,,10.306.722
+2018-04-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões,Normal,,9.687.238
+2018-04-27,Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões,Normal,,10.541.225
+2018-04-28,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Arrecadação de Convênios; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.912.888
+2018-04-29,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Arrecadação de Convênios; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.671.977
+2018-04-30,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação,Alto Risco,,11.827.454
+2018-05-01,Congelamento do ambiente; Feriado; Dia do Trabalho; Movimento Batch – Compe Inferior; Processo de Migração/Incorporação; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Feriado,,2.930.286
+2018-05-02,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões; ,Congelamento,,11.740.729
+2018-05-03,Congelamento do ambiente; Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões; ,Congelamento,,12.053.093
+2018-05-04,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões; ,Congelamento,,12.484.609
+2018-05-05,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,3.547.807
+2018-05-06,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,1.426.185
+2018-05-07,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões; ,Alto Risco,,14.955.341
+2018-05-08,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento de transações de cartões; ,Normal,1,12.741.603
+2018-05-09,Arrecadação de Convênios; Aumento de transações de cartões; ,Normal,,11.245.589
+2018-05-10,Dia Produção Sisbr; Arrecadação de Convênios; Arrecadação de GPS; Aumento de transações de cartões; ,Normal,,11.535.736
+2018-05-11,,Normal,,11.283.218
+2018-05-12,Congelamento do ambiente; Dia das Mães; Aumento de transações CDO e ATM; Utilização dos Canais Digitais; ,Congelamento,,3.142.041
+2018-05-13,Congelamento do ambiente; Dia das Mães; Aumento de transações CDO e ATM; Utilização dos Canais Digitais; ,Congelamento,,1.666.340
+2018-05-14,Movimento Segunda-Feira; ,Alto Risco,,12.541.712
+2018-05-15,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; Aumento de transações de cartões; ,Normal,,12.374.779
+2018-05-16,Movimento Batch – Empréstimo 0001; Aumento de transações de cartões; ,Normal,,10.765.262
+2018-05-17,Dia Produção Sisbr; Aumento de transações de cartões; ,Normal,,10.184.765
+2018-05-18,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,10.970.334
+2018-05-19,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,2.801.797
+2018-05-20,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,1.711.412
+2018-05-21,Movimento Segunda-Feira; Dia de maior movimento do Sicoobnet Empresarial; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Alto Risco,,13.135.742
+2018-05-22,Dia Produção Sisbr; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,10.510.079
+2018-05-23,Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,9.781.750
+2018-05-24,Dia Produção Sisbr; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,8.790.623
+2018-05-25,Pagamento de benefícios INSS; Arrecadação de Convênios; Arrecadação do Convênio IPVA; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Atenção,,9.774.887
+2018-05-26,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais,Normal,,2.538.363
+2018-05-27,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais,Normal,,1.506.797
+2018-05-28,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,10.783.883
+2018-05-29,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.844.875
+2018-05-30,Pagamento de benefícios INSS; Arrecadação de Convênios; Grande Movimento Batch; Liberação Operações de Crédito ,Normal,,10.932.722
+2018-05-31,Congelamento do ambiente; Feriado; Corpus Christi; Processo de Migração/Incorporação ,Feriado,,2.700.801
+2018-06-01,Congelamento do ambiente; Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação; Aumento de transações de cartões,Congelamento,,10.912.014
+2018-06-02,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,3.210.847
+2018-06-03,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,1.959.275
+2018-06-04,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança; Previsão de grande movimento; Pós feriado prolongado;,Alto Risco,,13.871.919
+2018-06-05,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;; ,Normal,,13.078.383
+2018-06-06,Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;; ,Normal,,13.121.457
+2018-06-07,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;; ,Normal,1,12.756.921
+2018-06-08,Arrecadação de Convênios; Arrecadação de GPS; Utilização dos Canais Digitais;; ,Normal,,11.893.228
+2018-06-09,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,3.398.798
+2018-06-10,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Normal,,2.130.793
+2018-06-11,Movimento Segunda-Feira; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança; Aumento de transações de cartões; Utilização dos Canais Digitais;; ,Alto Risco,,15.649.649
+2018-06-12,Congelamento do ambiente; Data comemorativa; Dia dos Namorados; Aumento de transações CDO e ATM; Movimento Batch – Compe Inferior; Aumento de transações de cartões; Utilização dos Canais Digitais;; ,Congelamento,,11.702.194
+2018-06-13,Pós data comemorativa; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,10.388.534
+2018-06-14,Dia Produção Sisbr;,Normal,,10.408.812
+2018-06-15,Movimento Batch – Empréstimo 0001 ; ,Normal,,11.927.021
+2018-06-16,Dia de Jogo do Brasil na Copa do Mundo; Aumento de transações CDO e ATM; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte; ;,Atenção,,2.999.977
+2018-06-17,Dia de Jogo do Brasil na Copa do Mundo; Aumento de transações CDO e ATM; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte; ;,Atenção,,1.620.065
+2018-06-18,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001; Aumento no volume de processamento do produto Poupança,Alto Risco,,12.328.201
+2018-06-19,Dia Produção Sisbr;,Normal,,11.184.343
+2018-06-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Atenção,,12.615.729
+2018-06-21,Dia Produção Sisbr;,Normal,,10.292.095
+2018-06-22,Dia de Jogo do Brasil na Copa do Mundo; Aumento de transações CDO e ATM; Utilização dos Canais Digitais;,Atenção,,8.737.644
+2018-06-23,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte; ,Alto Risco,,2.862.984
+2018-06-24,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte;,Alto Risco,,1.690.261
+2018-06-25,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento no volume de processamento do produto Poupança;,Alto Risco,,12.396.865
+2018-06-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,10.437.145
+2018-06-27,Dia de Jogo do Brasil na Copa do Mundo; Aumento de transações CDO e ATM; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,8.084.303
+2018-06-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios;,Alto Risco,,10.263.015
+2018-06-29,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Aumento de transações de cartões; ,Alto Risco,,11.290.527
+2018-06-30,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Utilização dos aplicativos #ContaFácil e #FaçaParte; ,Atenção,,3.163.345
+2018-07-01,Utilização de Caixa Eletrônico; Processo de Migração/Incorporação; Aumento do volume de transações para os Canais Digitais e Canais Convencionais,Normal,,2.080.445
+2018-07-02,Provável dia de Jogo do Brasil na Copa do Mundo; Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Alto Risco,,12.372.344
+2018-07-03,Provável dia de Jogo do Brasil na Copa do Mundo; Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;; Aumento de transações de cartões;,Atenção,,11.201.695
+2018-07-04,Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Normal,,12.074.088
+2018-07-05,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;; Aumento de transações de cartões;,Normal,,13.469.324
+2018-07-06,Provável dia de Jogo do Brasil na Copa do Mundo; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Atenção,1,11.212.667
+2018-07-07,Provável dia de Jogo do Brasil na Copa do Mundo; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Atenção,,3.707.751
+2018-07-08,Provável dia de Jogo do Brasil na Copa do Mundo; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Atenção,,2.107.736
+2018-07-09,Movimento Segunda-Feira; Arrecadação de Convênios; Utilização dos Canais Digitais;,Alto Risco,,13.581.939
+2018-07-10,Provável dia de Jogo do Brasil na Copa do Mundo; Dia Produção Sisbr; Movimento Batch – Compe Inferior; Arrecadação de Convênios; Arrecadação de GPS; Utilização dos Canais Digitais;,Atenção,,14.587.671
+2018-07-11,Provável dia de Jogo do Brasil na Copa do Mundo; Utilização dos Canais Digitais;,Atenção,,12.267.329
+2018-07-12,Dia Produção Sisbr; Aumento de transações de cartões;,Normal,,11.087.655
+2018-07-13,,Normal,,11.028.804
+2018-07-14,Provável dia de Jogo do Brasil na Copa do Mundo; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Atenção,,3.125.343
+2018-07-15,Provável dia de Jogo do Brasil na Copa do Mundo; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Atenção,,1.875.257
+2018-07-16,Movimento Segunda-Feira; Movimento Batch – Empréstimo 0001;,Alto Risco,,13.836.278
+2018-07-17,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; Aumento de transações de cartões;,Normal,,11.427.401
+2018-07-18,,Normal,,9.944.535
+2018-07-19,Dia Produção Sisbr; Aumento de transações de cartões;,Normal,,9.751.126
+2018-07-20,Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial; Utilização dos Canais Digitais;; ,Atenção,,8.543.672
+2018-07-21,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Normal,,0
+2018-07-22,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Normal,,0
+2018-07-23,Movimento Segunda-Feira;,Alto Risco,,9.965.098
+2018-07-24,Dia Produção Sisbr; Aumento de transações de cartões;,Normal,,9.887.348
+2018-07-25,Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Normal,,9.949.858
+2018-07-26,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Normal,,9.049.557
+2018-07-27,Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Normal,,9.487.211
+2018-07-28,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Normal,,2.628.977
+2018-07-29,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Normal,,1.601.516
+2018-07-30,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios; Utilização dos Canais Digitais;,Alto Risco,,11.783.061
+2018-07-31,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch; Processo de Migração/Incorporação ,Normal,,11.209.748
+2018-08-01,Pagamento de benefícios INSS; Arrecadação de Convênios; Processo de Migração/Incorporação ,Normal,,11.791.516
+2018-08-02,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,11.016.500
+2018-08-03,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,11.842.287
+2018-08-04,Utilização de Caixa Eletrônico;Utilização dos Canais Digitais;,Normal,,3.284.210
+2018-08-05,Utilização de Caixa Eletrônico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais,Normal,,1.926.894
+2018-08-06,Movimento Segunda-Feira ; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,14.607.839
+2018-08-07,Dia Produção Sisbr; Movimento Batch – Compe Inferior; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,1,12.747.637
+2018-08-08,Arrecadação de Convênios; ,Normal,,11.825.382
+2018-08-09,Dia Produção Sisbr; Arrecadação de Convênios,Normal,,10.948.158
+2018-08-10,Arrecadação de Convênios; Arrecadação de GPS;Utilização dos Canais Digitais;,Atenção,,12.607.248
+2018-08-11,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Congelamento,,3.004.789
+2018-08-12,Congelamento do ambiente; Data comemorativa; Dia dos Pais; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Congelamento,,1.627.905
+2018-08-13,Movimento Segunda-Feira; Pós data comemorativa; Aumento do volume de transações para os Canais Digitais e Canais Convencionais;,Alto Risco,,13.218.849
+2018-08-14,Dia Produção Sisbr; Movimento Batch – Compe Inferior;,Normal,,11.182.448
+2018-08-15,Movimento Batch – Empréstimo 0001; Utilização dos Canais Digitais;,Normal,,10.605.387
+2018-08-16,Dia Produção Sisbr; Movimento Batch – Empréstimo 0001; ,Normal,,10.528.042
+2018-08-17,,Normal,,10.440.074
+2018-08-18,Utilização de Caixa Eletrônico;Utilização dos Canais Digitais;,Normal,,2.802.945
+2018-08-19,Utilização de Caixa Eletrônico;Utilização dos Canais Digitais;,Normal,,1.701.834
+2018-08-20,Movimento Segunda-Feira; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; Dia de maior movimento do Sicoobnet Empresarial; ,Alto Risco,,14.340.569
+2018-08-21,Dia Produção Sisbr,Normal,,10.884.663
+2018-08-22,,Normal,,9.996.390
+2018-08-23,Dia Produção Sisbr,Normal,,9.400.076
+2018-08-24,,Normal,,9.642.017
+2018-08-25,Utilização de Caixa Eletrônico;Utilização dos Canais Digitais;,Normal,,2.633.968
+2018-08-26,Utilização de Caixa Eletrônico;Utilização dos Canais Digitais;,Normal,,1.586.978
+2018-08-27,Movimento Segunda-Feira; Pagamento de benefícios INSS; Arrecadação de Convênios,Alto Risco,,11.779.657
+2018-08-28,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.986.051
+2018-08-29,Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,9.539.798
+2018-08-30,Dia Produção Sisbr; Pagamento de benefícios INSS; Arrecadação de Convênios,Normal,,10.092.627
+2018-08-31,Pagamento de benefícios INSS; Arrecadação de Convênios; Liberação Operações de Crédito; Grande Movimento Batch ,Normal,,10.970.286
+2018-09-01,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; Processo de Migração/Incorporação; ,Normal,,3.270.337
+2018-09-02,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; Processo de Migração/Incorporação; ,Normal,,1.875.529
+2018-09-03,"Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; 
+Grande volume de transações nas Plataformas de Negócio; Ativação consulta Boleto DDA",Alto Risco,,14.198.158
+2018-09-04,Dia Produção Sisbr; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS; Grande volume de transações nas Plataformas de Negócio;,Normal,,11.954.954
+2018-09-05,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS;,Normal,,12.801.301
+2018-09-06,Congelamento do ambiente; Antecede feriado; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS; Grande volume de transações nas Plataformas de Negócio; ,Congelamento,,13.935.972
+2018-09-07,Congelamento do ambiente; Feriado; Independência do Brasil; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Feriado,,2.548.556
+2018-09-08,Congelamento do ambiente; Feriado prolongado; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Congelamento,,2.727.418
+2018-09-09,Congelamento do ambiente; Feriado prolongado; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Congelamento,,1.931.998
+2018-09-10,Pagamento de benefícios INSS; Arrecadação de Convênios; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Previsão de grande movimento; Grande volume de transações nas Plataformas de Negócio; Processamento crítico;,Alto Risco,1,16.589.808
+2018-09-11,Dia Produção Sisbr; Pagamento de benefícios INSS; Grande volume de transações nas Plataformas de Negócio; Previsão de grande movimento no SISBR2.0;,Atenção,,12.919.435
+2018-09-12,,Normal,,11.200.318
+2018-09-13,Dia Produção Sisbr;,Normal,,10.381.647
+2018-09-14,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,10.538.339
+2018-09-15,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,2.835.971
+2018-09-16,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,1.681.533
+2018-09-17,Aumento do volume de transações para os Canais Digitais e Canais Convencionais;Processamento crítico; Grande volume de transações nas Plataformas de Negócio; Movimento Batch – Empréstimo 0001;,Alto Risco,,12.974.058
+2018-09-18,Dia Produção Sisbr;,Normal,,10.596.224
+2018-09-19,,Normal,,10.179.883
+2018-09-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais; ,Atenção,,11.732.823
+2018-09-21,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; ,Normal,,10.180.435
+2018-09-22,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,2.808.132
+2018-09-23,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,1.650.906
+2018-09-24,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Processamento crítico; Pagamento de benefícios INSS; Ativação consulta Boleto DDA,Alto Risco,,12.086.485
+2018-09-25,Dia Produção Sisbr; Pagamento de benefícios INSS;,Normal,,10.667.890
+2018-09-26,Pagamento de benefícios INSS;,Normal,,9.786.002
+2018-09-27,Dia Produção Sisbr; Pagamento de benefícios INSS;,Normal,,9.603.455
+2018-09-28,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS; ,Normal,,11.015.037
+2018-09-29,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; Processo de Migração/Incorporação; ,Normal,,2.846.758
+2018-09-30,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; Processo de Migração/Incorporação; ,Normal,,1.777.570
+2018-10-01,Processamento crítico; Pagamento de benefícios INSS; Processo de Migração/Incorporação; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; ,Alto Risco,,13.834.673
+2018-10-02,Dia Produção Sisbr; Pagamento de benefícios INSS; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; ,Normal,,11.762.925
+2018-10-03,Pagamento de benefícios INSS,Normal,,11.491.572
+2018-10-04,Dia Produção Sisbr; Pagamento de benefícios INSS,Normal,,11.157.579
+2018-10-05,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS; Arrecadação de Convênios ,Normal,1,14.160.697
+2018-10-06,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,3.356.826
+2018-10-07,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,1.698.021
+2018-10-08,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Ativação consulta Boleto DDA,Alto Risco,,13.745.761
+2018-10-09,Dia Produção Sisbr; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; ,Atenção,,11.917.999
+2018-10-10,Arrecadação de Convênios; Arrecadação de GPS,Normal,,13.205.155
+2018-10-11,"Congelamento do ambiente; Antecede feriado; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; 
+Grande volume de transações nas Plataformas de Negócio; ",Congelamento,,11.872.177
+2018-10-12,Congelamento do ambiente; Feriado; Nossa Senhora Aparecida e Dia das Crianças; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Feriado,,2.304.645
+2018-10-13,Congelamento do ambiente; Feriado prolongado; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Congelamento,,2.533.407
+2018-10-14,Congelamento do ambiente; Feriado prolongado; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Congelamento,,1.737.636
+2018-10-15,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Movimento Batch – Empréstimo 0001,Alto Risco,,14.971.254
+2018-10-16,Dia Produção Sisbr; ,Normal,,11.557.435
+2018-10-17,,Normal,,10.580.195
+2018-10-18,Dia Produção Sisbr;,Normal,,9.865.731
+2018-10-19,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais,Atenção,,11.098.830
+2018-10-20,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,2.940.727
+2018-10-21,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,1.662.756
+2018-10-22,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Ativação consulta Boleto DDA,Alto Risco,,13.022.168
+2018-10-23,Dia Produção Sisbr;,Normal,,10.391.660
+2018-10-24,,Normal,,9.622.434
+2018-10-25,Dia Produção Sisbr; Pagamento de benefícios INSS,Normal,,10.066.257
+2018-10-26,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS,Normal,,
+2018-10-27,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,
+2018-10-28,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,
+2018-10-29,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Pagamento de benefícios INSS,Alto Risco,,
+2018-10-30,Dia Produção Sisbr; Pagamento de benefícios INSS,Normal,,
+2018-10-31,Pagamento de benefícios INSS; Processo de Migração/Incorporação,Normal,,
+2018-11-01,"Congelamento do ambiente; Antecede feriado; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; 
+Grande volume de transações nas Plataformas de Negócio; Processo de Migração/Incorporação",Congelamento,,
+2018-11-02,Congelamento do ambiente; Feriado; Finados; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Feriado,,
+2018-11-03,Congelamento do ambiente; Feriado prolongado; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Congelamento,,
+2018-11-04,Congelamento do ambiente; Feriado prolongado; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Congelamento,,
+2018-11-05,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Ativação consulta Boleto DDA; Pagamento de benefícios INSS; Previsão de grande movimento;,Alto Risco,,
+2018-11-06,Dia Produção Sisbr; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Pagamento de benefícios INSS; Previsão de grande movimento no SISBR2.0;,Atenção,,
+2018-11-07,Pagamento de benefícios INSS,Normal,,
+2018-11-08,Congelamento do ambiente; Pagamento de benefícios INSS,Congelamento,1,
+2018-11-09,Congelamento do ambiente; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS,Congelamento,,
+2018-11-10,Congelamento do ambiente; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Congelamento,,
+2018-11-11,Congelamento do ambiente; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais;,Congelamento,,
+2018-11-12,"Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; 
+Grande volume de transações nas Plataformas de Negócio; Arrecadação de Convênios; Previsão de grande movimento; ",Alto Risco,,
+2018-11-13,Dia Produção Sisbr; Grande volume de transações nas Plataformas de Negócio; Previsão de grande movimento no SISBR2.0;,Atenção,,
+2018-11-14,,Normal,,
+2018-11-15,Congelamento do ambiente; Feriado; Proclamação da República; Utilização de Caixa Eletrônico; Utilização dos Canais Digitais,Feriado,,
+2018-11-16,Congelamento do ambiente; Pós feriado; Aumento do volume de transações para os Canais Digitais e Canais Convencionais ,Congelamento,,
+2018-11-17,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,
+2018-11-18,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,
+2018-11-19,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Movimento Batch – Empréstimo 0001 ,Alto Risco,,
+2018-11-20,Dia Produção Sisbr; Arrecadação de GPS; Arrecadação de DARF e DAS; Pagamento de leite das Cooperativas Rurais,Atenção,,
+2018-11-21,,Normal,,
+2018-11-22,Dia Produção Sisbr; ,Normal,,
+2018-11-23,Aumento do volume de transações para os Canais Digitais e Canais Convencionais ,Normal,,
+2018-11-24,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,
+2018-11-25,Utilização de Caixa Eletrônico; Utilização dos Canais Digitais; ,Normal,,
+2018-11-26,Processamento crítico; Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Grande volume de transações nas Plataformas de Negócio; Pagamento de benefícios INSS,Alto Risco,,
+2018-11-27,Dia Produção Sisbr; Pagamento de benefícios INSS,Normal,,
+2018-11-28,Pagamento de benefícios INSS,Normal,,
+2018-11-29,Dia Produção Sisbr; Pagamento de benefícios INSS,Normal,,
+2018-11-30,Aumento do volume de transações para os Canais Digitais e Canais Convencionais; Pagamento de benefícios INSS; Processo de Migração/Incorporação,Atenção,,
+2018-12-01,,,,
+2018-12-02,,,,
+2018-12-03,,,,
+2018-12-04,,,,
+2018-12-05,,,,
+2018-12-06,,,,
+2018-12-07,,,1,
+2018-12-08,,,,
+2018-12-09,,,,
+2018-12-10,,,,
+2018-12-11,,,,
+2018-12-12,,,,
+2018-12-13,,,,
+2018-12-14,,,,
+2018-12-15,,,,
+2018-12-16,,,,
+2018-12-17,,,,
+2018-12-18,,,,
+2018-12-19,,,,
+2018-12-20,,,,
+2018-12-21,,,,
+2018-12-22,,,,
+2018-12-23,,,,
+2018-12-24,,,,
+2018-12-25,,,,
+2018-12-26,,,,
+2018-12-27,,,,
+2018-12-28,,,,
+2018-12-29,,,,
+2018-12-30,,,,
+2018-12-31,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,1,
